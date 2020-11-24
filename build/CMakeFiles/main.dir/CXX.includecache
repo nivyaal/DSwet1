@@ -14,6 +14,38 @@ TreeExceptions.h
 
 /home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/TreeExceptions.h
 
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp
+iostream
+-
+CoursesManager.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
+iostream
+-
+EmptyCoursesTree/EmptyCoursesTree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree/EmptyCoursesTree.h
+SortedTree/SortedTree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree/SortedTree.h
+CoursesTree/CoursesTree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/CoursesTree.h
+SpecialNodes.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp
+iostream
+-
+CoursesTree/CoursesTree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/CoursesTree.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/CoursesTree.h
+../AVLtree/AVLtree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/AVLtree.h
+../SpecialNodes.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.h
+memory
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/memory
+
 /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp
 iostream
 -
@@ -30,13 +62,21 @@ EmptyCoursesTree/EmptyCoursesTree.h
 memory
 /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree/memory
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTreeTest.cpp
-EmptyCoursesTree/EmptyCoursesTree.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree/EmptyCoursesTree.h
-
 /home/hod/Desktop/projects/wet1DS/DSwet1/List/List.h
 iostream
 -
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp
+iostream
+-
+SortedTree/SortedTree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree/SortedTree.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree/SortedTree.h
+../AVLtree/AVLtree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/AVLtree.h
+../SpecialNodes.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.h
 
 /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp
 SpecialNodes.h
@@ -47,4 +87,8 @@ iostream
 -
 AVLtree/AVLtree.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/AVLtree.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/main.cpp
+iostream
+-
 

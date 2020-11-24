@@ -1,7 +1,7 @@
 #include <iostream>
 #include "SortedTree/SortedTree.h"
 
-void SortedTree::RemoveClass(int course_id,int class_num,int time)
+void SortedTree::removeClass(int course_id,int class_num,int time)
 {
 
     mega_tree.erase(TripletKey(time,course_id,class_num)); 
@@ -17,4 +17,9 @@ void SortedTree::topKtoArray(TripletKey* array,int k)
 {
 
     mega_tree.topKElementsToArray(k,array);
+}
+
+int SortedTree::getSize()
+{
+    return mega_tree.getTreeSize();
 }

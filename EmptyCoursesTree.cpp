@@ -20,10 +20,6 @@ void EmptyCoursesTree::toArrayKElements(const int num, TripletKey* array)
     int index=0;
     for (int i=0;i<array_size;i++)
     {
-        if (index==49)
-        {
-            std::cout<<"NIVGAY"<<std::endl;
-        }
         int curr_list_size=unwatched_courses[i]->avoided_num;
         fill_this_many=curr_list_size;
         if (left_to_fill<curr_list_size)
@@ -82,7 +78,7 @@ void EmptyCoursesTree::eraseCourse(const int course_id)
     if (temp!=nullptr)
     {
         number_of_courses--;
-        total_unwatched-=(*temp)->avoided_num;
     }
     part_empty_courses.erase(course_id);
 }
+
