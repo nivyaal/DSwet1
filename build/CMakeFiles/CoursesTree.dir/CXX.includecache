@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/AVLtree/AVLtree.h
+iostream
+-
+TreeExceptions.h
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/AVLtree/TreeExceptions.h
+
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/AVLtree/TreeExceptions.h
+
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/CoursesTree/CoursesTree.cpp
+iostream
+-
+CoursesTree.h
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/CoursesTree/CoursesTree.h
+
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/CoursesTree/CoursesTree.h
+../AVLtree/AVLtree.h
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/AVLtree/AVLtree.h
+../SpecialNodes.h
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/SpecialNodes.h
+
+/home/nivyaal/Documents/technion/DS/wet1/DSwet1/SpecialNodes.h
+iostream
+-
+

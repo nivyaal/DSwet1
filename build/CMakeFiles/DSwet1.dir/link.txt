@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/DSwet1.dir/SortedTree.cpp.o CMakeFiles/DSwet1.dir/EmptyCoursesTree.cpp.o CMakeFiles/DSwet1.dir/CoursesTree.cpp.o CMakeFiles/DSwet1.dir/CoursesManager.cpp.o CMakeFiles/DSwet1.dir/main.cpp.o  -o DSwet1 
