@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/nivyaal/Documents/technion/DS/wet1/DSwet1
+CMAKE_SOURCE_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build
+CMAKE_BINARY_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -92,7 +92,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/CPackSourceConfig.cmake
+	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/hod/Desktop/projects/wet1DS/DSwet1/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -113,9 +113,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/CMakeFiles /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles /home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -246,19 +246,6 @@ NightlyStart: cmake_check_build_system
 NightlyStart/fast:
 	$(MAKE) -f CMakeFiles/NightlyStart.dir/build.make CMakeFiles/NightlyStart.dir/build
 .PHONY : NightlyStart/fast
-
-#=============================================================================
-# Target rules for targets named DSwet1
-
-# Build rule for target.
-DSwet1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 DSwet1
-.PHONY : DSwet1
-
-# fast build rule for target.
-DSwet1/fast:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/build
-.PHONY : DSwet1/fast
 
 #=============================================================================
 # Target rules for targets named NightlyMemoryCheck
@@ -482,6 +469,19 @@ ExperimentalStart/fast:
 .PHONY : ExperimentalStart/fast
 
 #=============================================================================
+# Target rules for targets named main
+
+# Build rule for target.
+main: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 main
+.PHONY : main
+
+# fast build rule for target.
+main/fast:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
+.PHONY : main/fast
+
+#=============================================================================
 # Target rules for targets named ContinuousTest
 
 # Build rule for target.
@@ -520,67 +520,13 @@ ExperimentalBuild/fast:
 	$(MAKE) -f CMakeFiles/ExperimentalBuild.dir/build.make CMakeFiles/ExperimentalBuild.dir/build
 .PHONY : ExperimentalBuild/fast
 
-CoursesManager.o: CoursesManager.cpp.o
-
-.PHONY : CoursesManager.o
-
-# target to build an object file
-CoursesManager.cpp.o:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesManager.cpp.o
-.PHONY : CoursesManager.cpp.o
-
-CoursesManager.i: CoursesManager.cpp.i
-
-.PHONY : CoursesManager.i
-
-# target to preprocess a source file
-CoursesManager.cpp.i:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesManager.cpp.i
-.PHONY : CoursesManager.cpp.i
-
-CoursesManager.s: CoursesManager.cpp.s
-
-.PHONY : CoursesManager.s
-
-# target to generate assembly for a file
-CoursesManager.cpp.s:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesManager.cpp.s
-.PHONY : CoursesManager.cpp.s
-
-CoursesTree.o: CoursesTree.cpp.o
-
-.PHONY : CoursesTree.o
-
-# target to build an object file
-CoursesTree.cpp.o:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesTree.cpp.o
-.PHONY : CoursesTree.cpp.o
-
-CoursesTree.i: CoursesTree.cpp.i
-
-.PHONY : CoursesTree.i
-
-# target to preprocess a source file
-CoursesTree.cpp.i:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesTree.cpp.i
-.PHONY : CoursesTree.cpp.i
-
-CoursesTree.s: CoursesTree.cpp.s
-
-.PHONY : CoursesTree.s
-
-# target to generate assembly for a file
-CoursesTree.cpp.s:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/CoursesTree.cpp.s
-.PHONY : CoursesTree.cpp.s
-
 EmptyCoursesTree.o: EmptyCoursesTree.cpp.o
 
 .PHONY : EmptyCoursesTree.o
 
 # target to build an object file
 EmptyCoursesTree.cpp.o:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/EmptyCoursesTree.cpp.o
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.o
 .PHONY : EmptyCoursesTree.cpp.o
 
 EmptyCoursesTree.i: EmptyCoursesTree.cpp.i
@@ -589,7 +535,7 @@ EmptyCoursesTree.i: EmptyCoursesTree.cpp.i
 
 # target to preprocess a source file
 EmptyCoursesTree.cpp.i:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/EmptyCoursesTree.cpp.i
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.i
 .PHONY : EmptyCoursesTree.cpp.i
 
 EmptyCoursesTree.s: EmptyCoursesTree.cpp.s
@@ -598,62 +544,62 @@ EmptyCoursesTree.s: EmptyCoursesTree.cpp.s
 
 # target to generate assembly for a file
 EmptyCoursesTree.cpp.s:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/EmptyCoursesTree.cpp.s
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.s
 .PHONY : EmptyCoursesTree.cpp.s
 
-SortedTree.o: SortedTree.cpp.o
+EmptyCoursesTreeTest.o: EmptyCoursesTreeTest.cpp.o
 
-.PHONY : SortedTree.o
-
-# target to build an object file
-SortedTree.cpp.o:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/SortedTree.cpp.o
-.PHONY : SortedTree.cpp.o
-
-SortedTree.i: SortedTree.cpp.i
-
-.PHONY : SortedTree.i
-
-# target to preprocess a source file
-SortedTree.cpp.i:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/SortedTree.cpp.i
-.PHONY : SortedTree.cpp.i
-
-SortedTree.s: SortedTree.cpp.s
-
-.PHONY : SortedTree.s
-
-# target to generate assembly for a file
-SortedTree.cpp.s:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/SortedTree.cpp.s
-.PHONY : SortedTree.cpp.s
-
-main.o: main.cpp.o
-
-.PHONY : main.o
+.PHONY : EmptyCoursesTreeTest.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/main.cpp.o
-.PHONY : main.cpp.o
+EmptyCoursesTreeTest.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTreeTest.cpp.o
+.PHONY : EmptyCoursesTreeTest.cpp.o
 
-main.i: main.cpp.i
+EmptyCoursesTreeTest.i: EmptyCoursesTreeTest.cpp.i
 
-.PHONY : main.i
+.PHONY : EmptyCoursesTreeTest.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/main.cpp.i
-.PHONY : main.cpp.i
+EmptyCoursesTreeTest.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTreeTest.cpp.i
+.PHONY : EmptyCoursesTreeTest.cpp.i
 
-main.s: main.cpp.s
+EmptyCoursesTreeTest.s: EmptyCoursesTreeTest.cpp.s
 
-.PHONY : main.s
+.PHONY : EmptyCoursesTreeTest.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/DSwet1.dir/build.make CMakeFiles/DSwet1.dir/main.cpp.s
-.PHONY : main.cpp.s
+EmptyCoursesTreeTest.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTreeTest.cpp.s
+.PHONY : EmptyCoursesTreeTest.cpp.s
+
+SpecialNodes.o: SpecialNodes.cpp.o
+
+.PHONY : SpecialNodes.o
+
+# target to build an object file
+SpecialNodes.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.o
+.PHONY : SpecialNodes.cpp.o
+
+SpecialNodes.i: SpecialNodes.cpp.i
+
+.PHONY : SpecialNodes.i
+
+# target to preprocess a source file
+SpecialNodes.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.i
+.PHONY : SpecialNodes.cpp.i
+
+SpecialNodes.s: SpecialNodes.cpp.s
+
+.PHONY : SpecialNodes.s
+
+# target to generate assembly for a file
+SpecialNodes.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.s
+.PHONY : SpecialNodes.cpp.s
 
 # Help Target
 help:
@@ -672,7 +618,6 @@ help:
 	@echo "... ExperimentalTest"
 	@echo "... NightlyUpdate"
 	@echo "... NightlyStart"
-	@echo "... DSwet1"
 	@echo "... NightlyMemoryCheck"
 	@echo "... NightlyBuild"
 	@echo "... ExperimentalUpdate"
@@ -692,24 +637,19 @@ help:
 	@echo "... Nightly"
 	@echo "... NightlyConfigure"
 	@echo "... ExperimentalStart"
+	@echo "... main"
 	@echo "... ContinuousTest"
 	@echo "... ContinuousUpdate"
 	@echo "... ExperimentalBuild"
-	@echo "... CoursesManager.o"
-	@echo "... CoursesManager.i"
-	@echo "... CoursesManager.s"
-	@echo "... CoursesTree.o"
-	@echo "... CoursesTree.i"
-	@echo "... CoursesTree.s"
 	@echo "... EmptyCoursesTree.o"
 	@echo "... EmptyCoursesTree.i"
 	@echo "... EmptyCoursesTree.s"
-	@echo "... SortedTree.o"
-	@echo "... SortedTree.i"
-	@echo "... SortedTree.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... EmptyCoursesTreeTest.o"
+	@echo "... EmptyCoursesTreeTest.i"
+	@echo "... EmptyCoursesTreeTest.s"
+	@echo "... SpecialNodes.o"
+	@echo "... SpecialNodes.i"
+	@echo "... SpecialNodes.s"
 .PHONY : help
 
 

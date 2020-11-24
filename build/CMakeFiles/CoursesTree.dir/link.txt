@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/CoursesTree.dir/CoursesTree/CoursesTree.cpp.o  -o CoursesTree 

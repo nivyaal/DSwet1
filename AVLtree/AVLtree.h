@@ -3,7 +3,6 @@
 #include <iostream>
 #include "TreeExceptions.h"
 
-
 template <class U, class T>
 class Node
     {
@@ -48,7 +47,6 @@ class AVLtree
     void updateRank(Node<U,T>* r);
     int getRank(const U& key);
     static void setParent(Node<U,T>*  son,Node<U,T>*  parent);
-
 
     public:
     Node<U,T>* root;

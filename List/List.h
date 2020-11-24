@@ -29,7 +29,7 @@ class List
     void emptyList(ListNode<T>* curr);
 
     public:
-    List():head(new ListNode<T>()),tail(new ListNode<T>()),size(0){};
+    List():head(new ListNode<T>()),tail(new ListNode<T>()),size(0){head->next=tail;tail->prev=head;};
     ~List(){emptyList(head->next);delete head;delete tail;};
     int getSize();
     void insertStart(const T& val);
@@ -46,6 +46,7 @@ void List<T>::remove(ListNode<T>* curr)
     {
         return;
     }
+    size--;
     ListNode<T>* temp =curr;
     temp->prev->next=temp->next;
     temp->next->prev=temp->prev;
@@ -111,25 +112,22 @@ void List<T>::insertStart(const T& val,ListNode<T>* head)
     ListNode<T>* new_ListNode=new ListNode<T>(val);
     head->next=new_ListNode;
     new_ListNode->next=temp;
-    if (size==1)
-    {
-        tail->prev=new_ListNode;
-    }
+    temp->prev=new_ListNode;
+    new_ListNode->prev=head;
 }
 
 template<class T>
 void List<T>::ListToArrayKelements(int index,int fill_this_many,T* array)
 {
-    ListNode<T>* temp=head->next;
+    ListNode<T>* temp=tail->prev;
     if (this->getSize()==0)
     {
         return;
     }
-    int cnt=0;
-    while (cnt!=fill_this_many)
+    for (int i=0;i<fill_this_many;i++)
     {
-        array[index+cnt] = temp->value;
-        temp=temp->next;
+        array[index+i] = temp->value;
+        temp=temp->prev;
     }
 }
 #endif

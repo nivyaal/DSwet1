@@ -3,38 +3,42 @@
 #include "../AVLtree/AVLtree.h"
 #include "../SpecialNodes.h"
 #include "../List/List.h"
+#include "memory"
 
 class EmptyCoursesTree
 {    
     private:
-    class EmptyCoursesNode
+    class EmptyCoursesInfo
     {
         private:
         public:
         ListNode<TripletKey>** avoided_indexes;
         List<TripletKey> avoided;
         int avoided_num;
-        int num_of_classes;
         int course_id;
-        ~EmptyCoursesNode(){delete[] avoided_indexes;};
-        EmptyCoursesNode():avoided_indexes(nullptr),avoided(List<TripletKey>()),avoided_num(0),num_of_classes(0),course_id(0){};
-        EmptyCoursesNode(const int size,const int course_id):avoided_indexes(new ListNode<TripletKey>*[size])
+        ~EmptyCoursesInfo(){delete[] avoided_indexes;};
+        EmptyCoursesInfo():avoided_indexes(nullptr),avoided(List<TripletKey>()),avoided_num(0),course_id(0){};
+        EmptyCoursesInfo(const int size,const int course_id):avoided_indexes(new ListNode<TripletKey>*[size])
         {
+            avoided_num=size;
             this->course_id=course_id;
             TripletKey temp;
             int i=0;
+            int cnt;
             for (int i=0;i<size;i++)
             {
-                temp=TripletKey(0,course_id,size-1-i);
+                cnt =size-i-1;
+                temp=TripletKey(0,course_id,size-i-1);
                 avoided.insertStart(temp);
-                avoided_indexes[size-1-i]=avoided.getHead();
+                avoided_indexes[size-i-1]=avoided.getHead();
             }
+
         }
         
 
 
     };
-    AVLtree<int,EmptyCoursesNode> part_empty_courses;
+    AVLtree<int,std::shared_ptr<EmptyCoursesInfo>> part_empty_courses;
     int total_unwatched=0;
     int number_of_courses=0;
     public:

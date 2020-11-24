@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/nivyaal/Documents/technion/DS/wet1/DSwet1
-BuildDirectory: /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build
+SourceDirectory: /home/hod/Desktop/projects/wet1DS/DSwet1
+BuildDirectory: /home/hod/Desktop/projects/wet1DS/DSwet1/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -36,7 +36,7 @@ ScpCommand: /usr/bin/scp
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/nivyaal/Documents/technion/DS/wet1/DSwet1"
+ConfigureCommand: "/usr/bin/cmake" "/home/hod/Desktop/projects/wet1DS/DSwet1"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 

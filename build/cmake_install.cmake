@@ -1,4 +1,4 @@
-# Install script for directory: /home/nivyaal/Documents/technion/DS/wet1/DSwet1
+# Install script for directory: /home/hod/Desktop/projects/wet1DS/DSwet1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hod/Desktop/projects/wet1DS/DSwet1/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

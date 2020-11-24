@@ -1,5 +1,5 @@
 #include <iostream>
-#include "EmptyCoursesTree.h"
+#include "EmptyCoursesTree/EmptyCoursesTree.h"
 
 
 void EmptyCoursesTree::toArrayKElements(const int num, TripletKey* array)
@@ -13,23 +13,29 @@ void EmptyCoursesTree::toArrayKElements(const int num, TripletKey* array)
     {
         return; //throw problem
     }
-    EmptyCoursesNode* unwatched_courses=new EmptyCoursesNode[array_size];
+    std::shared_ptr<EmptyCoursesInfo>* unwatched_courses=new std::shared_ptr<EmptyCoursesInfo>[array_size];
     part_empty_courses.topKElementsToArray(array_size, unwatched_courses);
-    int left_to_fill,index,fill_this_many;
+    int fill_this_many;
+    int left_to_fill=num;
+    int index=0;
     for (int i=0;i<array_size;i++)
     {
-        int curr_list_size=unwatched_courses[i].avoided_num;
+        if (index==49)
+        {
+            std::cout<<"NIVGAY"<<std::endl;
+        }
+        int curr_list_size=unwatched_courses[i]->avoided_num;
         fill_this_many=curr_list_size;
         if (left_to_fill<curr_list_size)
         {
             fill_this_many=left_to_fill;
-            unwatched_courses[i].avoided.ListToArrayKelements(index,fill_this_many,array);
+            unwatched_courses[i]->avoided.ListToArrayKelements(index,fill_this_many,array);
             break;
         }
         else
         {
             left_to_fill-=curr_list_size;
-            unwatched_courses[i].avoided.ListToArrayKelements(index,fill_this_many,array);
+            unwatched_courses[i]->avoided.ListToArrayKelements(index,fill_this_many,array);
         }
         index+=fill_this_many;
     }
@@ -44,7 +50,7 @@ void EmptyCoursesTree::insertCourse(const int course_id,const int num_of_classes
     }
     number_of_courses++;
     total_unwatched+=num_of_classes;
-    part_empty_courses.insert(course_id,EmptyCoursesNode(num_of_classes,course_id));
+    part_empty_courses.insert(course_id, std::shared_ptr<EmptyCoursesInfo>(new EmptyCoursesInfo(num_of_classes,course_id)));
 }
 
 void EmptyCoursesTree::watchClass(const int course_id,const int class_num,const int time)
@@ -53,15 +59,15 @@ void EmptyCoursesTree::watchClass(const int course_id,const int class_num,const 
     {
         throw ;//ilegal watch time
     }
-    EmptyCoursesNode* myCourse = part_empty_courses.find(course_id);
-    ListNode<TripletKey>* watched_class_ptr= myCourse->avoided_indexes[class_num];
+    std::shared_ptr<EmptyCoursesInfo>* myCourse = part_empty_courses.find(course_id);
+    ListNode<TripletKey>* watched_class_ptr= (*myCourse)->avoided_indexes[class_num];
     if (watched_class_ptr!=nullptr )// in case it is first time viewed
     {
-        myCourse->avoided.remove(watched_class_ptr);
+        (*myCourse)->avoided.remove(watched_class_ptr);
         watched_class_ptr=nullptr;
         total_unwatched--;
-        myCourse->num_of_classes--;
-        if (myCourse->num_of_classes==0)
+        (*myCourse)->avoided_num--;
+        if ((*myCourse)->avoided_num==0)
         {
             part_empty_courses.erase(course_id);
         }
@@ -72,10 +78,11 @@ void EmptyCoursesTree::watchClass(const int course_id,const int class_num,const 
 
 void EmptyCoursesTree::eraseCourse(const int course_id)
 {
-    EmptyCoursesNode* temp = part_empty_courses.find(course_id);
+    std::shared_ptr<EmptyCoursesInfo>* temp = part_empty_courses.find(course_id);
     if (temp!=nullptr)
     {
-        total_unwatched-=temp->avoided_num;
+        number_of_courses--;
+        total_unwatched-=(*temp)->avoided_num;
     }
     part_empty_courses.erase(course_id);
 }
