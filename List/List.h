@@ -2,6 +2,7 @@
 #define LIST_H_
 
 #include <iostream>
+#include "../Array/Array.h"
 template<class T>
 class ListNode
 {
@@ -11,7 +12,7 @@ class ListNode
     ListNode<T>* next; // bigger
     ListNode<T>* prev; //smaller
     ListNode():value(0),next(nullptr),prev(nullptr){};
-    ListNode(T val):value(val),next(nullptr),prev(nullptr){};
+    explicit ListNode(T val):value(val),next(nullptr),prev(nullptr){};
 };
 
 template<class T>
@@ -30,13 +31,13 @@ class List
 
     public:
     List():head(new ListNode<T>()),tail(new ListNode<T>()),size(0){head->next=tail;tail->prev=head;};
-    ~List(){emptyList(head->next);delete head;delete tail;};
+    ~List(){emptyList(head);delete head;delete tail;};
     int getSize();
     void insertStart(const T& val);
     void remove(const T& val);
     void remove(ListNode<T>* curr);
     ListNode<T>* getHead(){return head->next;};
-    void ListToArrayKelements(int index,int fill_this_many,T* array);
+    void ListToArrayKelements(int index,int fill_this_many,Array<T>& array);
 };
 
 template <class T>
@@ -117,7 +118,7 @@ void List<T>::insertStart(const T& val,ListNode<T>* head)
 }
 
 template<class T>
-void List<T>::ListToArrayKelements(int index,int fill_this_many,T* array)
+void List<T>::ListToArrayKelements(int index,int fill_this_many,Array<T>& array)
 {
     ListNode<T>* temp=head->next;
     if (this->getSize()==0)

@@ -3,6 +3,7 @@
 #include "../AVLtree/AVLtree.h"
 #include "../SpecialNodes.h"
 #include "memory"
+#include "../Array/Array.h"
 
 class CoursesTree
 {    
@@ -13,9 +14,9 @@ class CoursesTree
         private:
         public:
         int num_of_classes;
-        TripletKey* classes_array;
+        Array<TripletKey> classes_array;
         int course_id;
-        CourseInfo(const int size,const int course_id):classes_array(new TripletKey[size]),course_id(course_id),num_of_classes(size)
+        explicit CourseInfo(const int size,const int course_id):classes_array(Array<TripletKey>(size)),course_id(course_id),num_of_classes(size)
         {
             TripletKey temp;
             int i=0;
@@ -24,10 +25,6 @@ class CoursesTree
                 classes_array[i].setCourseId(course_id);
                 classes_array[i].setClassNum(i);
             }
-        }
-        ~CourseInfo()
-        {
-            delete[] classes_array;
         }
     };
     AVLtree<int,std::shared_ptr<CourseInfo>> courses;

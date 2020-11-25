@@ -1,11 +1,22 @@
 
-#include "EmptyCoursesTree/EmptyCoursesTree.h"
+#include "EmptyCoursesTree.h"
 
 int main()
 {
+    List<TripletKey> avoided;
+    TripletKey temp;
+    for (int i=0;i<2;i++)
+        {
+            temp=TripletKey(0,5,2-i-1);
+            avoided.insertStart(temp);
+            //avoided_indexes[size-i-1]=avoided.getHead();
+        }
+    EmptyCoursesInfo hod(0,1);
  EmptyCoursesTree niv;
  //ctor
+ 
  niv.insertCourse(1,5);
+ 
  niv.insertCourse(2,10);
  niv.insertCourse(3,100);
  
@@ -26,11 +37,14 @@ for (int i=0;i<50;i++)
 
  //topeKelementsToarray
  TripletKey array1[1000];
-niv.toArrayKElements(30,array1);
+niv.toArrayKElements(2,array1);
+
 niv.toArrayKElements(55,array1);
  //erase
+
  niv.eraseCourse(2);
- niv.eraseCourse(2);
+
+ //niv.eraseCourse(2);
 TripletKey array2[1000];
 niv.toArrayKElements(30,array2);
  niv.eraseCourse(3);

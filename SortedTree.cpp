@@ -13,13 +13,13 @@ void SortedTree::addClassView(int course_id,int class_num,int time)
     mega_tree.insert(TripletKey(time,course_id,class_num),TripletKey(time,course_id,class_num)); 
 }
 
-void SortedTree::topKtoArray(TripletKey* array,int k)
+void SortedTree::topKtoArray(Array<TripletKey>& array,int k,int starting_index) const
 {
 
-    mega_tree.topKElementsToArray(k,array);
+    mega_tree.topKElementsToArray(k,array,starting_index);
 }
 
-int SortedTree::getSize()
+int SortedTree::getSize() const
 {
     return mega_tree.getTreeSize();
 }

@@ -2,6 +2,7 @@
 #define AVLTREE_H_
 #include <iostream>
 #include "TreeExceptions.h"
+#include "../Array/Array.h"
 
 template <class U, class T>
 class Node
@@ -17,7 +18,7 @@ class Node
         Node* right;
         Node* left;
         Node():key(U()),value(T()),parent(nullptr),left(nullptr),right(nullptr),rank(1),height(0),bf(0){};
-        Node( const U& key, const T& val):key(key),value(val),parent(nullptr),left(nullptr),rank(1), right(nullptr),height(0),bf(0){};
+        explicit Node( const U& key, const T& val):key(key),value(val),parent(nullptr),left(nullptr),rank(1), right(nullptr),height(0),bf(0){};
     };
 
 template <class U, class T>
@@ -41,7 +42,7 @@ class AVLtree
     int updateBf( Node<U,T>* r );
     static int getBf(Node<U,T>* v);
     Node<U,T>* findSubTree(const int size) const;
-    static int InOrderToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt);
+    static int InOrderToArray(const Node<U,T>* r, Array<T>& values_array,const int elements_num, int cnt,int index);
 
     protected:
     void updateRank(Node<U,T>* r);
@@ -54,7 +55,7 @@ class AVLtree
     AVLtree():root(nullptr){};
     ~AVLtree();
     void insert(const U& key,const T& val);
-    void topKElementsToArray( const int elements_num, T* values_array) const;
+    void topKElementsToArray( const int elements_num, Array<T>& values_array,int starting_index) const;
     static void printInOrder(const Node<U,T>*r);
     void erase(const U& key);
     T* find(const U &key);
@@ -81,26 +82,26 @@ int AVLtree<U,T>::getTreeSize() const
 }
 
 template < class U,class T>
-void AVLtree<U,T>::topKElementsToArray(const int elements_num,T* values_array) const
+void AVLtree<U,T>::topKElementsToArray(const int elements_num, Array<T>& values_array,int starting_index) const
 {
     Node<U,T>* temp=findSubTree(elements_num);
-   InOrderToArray(temp,values_array,elements_num,0);
+   InOrderToArray(temp,values_array,elements_num,0,starting_index);
 }
 
 template < class U,class T>
-int AVLtree<U,T>::InOrderToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt) 
+int AVLtree<U,T>::InOrderToArray(const Node<U,T>* r, Array<T>& values_array,const int elements_num, int cnt,int index) 
 {
     if (cnt == elements_num || r==nullptr)
     {
         return cnt;
     }
-    cnt = InOrderToArray(r->left,values_array,elements_num, cnt);
+    cnt = InOrderToArray(r->left,values_array,elements_num, cnt,index);
     if(cnt == elements_num)
     {
         return cnt;
     }
-    values_array[cnt++] = r->value;
-    cnt = InOrderToArray(r->right,values_array,elements_num, cnt);
+    values_array[index+(cnt++)] = r->value;
+    cnt = InOrderToArray(r->right,values_array,elements_num, cnt,index);
     return cnt;
 }
 
@@ -364,6 +365,10 @@ template<class U,class T>
 Node<U,T>* AVLtree<U,T>::erase(const U& key,Node<U,T>* r)
 {
     //throw key does not exist
+    if (r == nullptr)
+    {
+        throw;
+    }
     if(r->key == key)
     {
         Node<U,T>* temp;

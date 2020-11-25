@@ -134,6 +134,7 @@ StatusType CoursesManager::GetMostViewedClasses( const int numOfClasses, int *co
     {
         return INVALID_INPUT;
     }
+    Array<TripletKey> temp_array(numOfClasses);
     try
     {
         if (main_tree.getTotalNumOfClasses()<numOfClasses)
@@ -141,13 +142,12 @@ StatusType CoursesManager::GetMostViewedClasses( const int numOfClasses, int *co
             return FAILURE;
         }
         int watched_classes=numOfClasses;
-        TripletKey* temp_array=new TripletKey[numOfClasses];
         if (numOfClasses>(watched_tree.getSize()))
         {
             watched_classes=watched_tree.getSize();
-            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array+numOfClasses-1-watched_classes);
+            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array,numOfClasses-1-watched_classes);
         }
-        watched_tree.topKtoArray(temp_array,watched_classes);
+        watched_tree.topKtoArray(temp_array,watched_classes,0);
         for (int i=0;i<numOfClasses;i++)
         {
             courses[i]=temp_array[i].getCourseId();

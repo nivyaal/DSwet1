@@ -2,15 +2,15 @@
 
 bool TripletKey::operator>( const TripletKey y) const
 {
-    if (this->time > y.time)
+    if (this->time < y.time)
     {
         return true;
     }
-    else if (this->time == y.time && this->course_id < y.course_id)
+    else if (this->time == y.time && this->course_id > y.course_id)
     {
         return true;
     }
-    else if  (this->time == y.time && this->course_id == y.course_id && this->class_num < y.class_num)
+    else if  (this->time == y.time && this->course_id == y.course_id && this->class_num > y.class_num)
     {
         return true;
     }

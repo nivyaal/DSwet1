@@ -2,7 +2,7 @@
 #include "EmptyCoursesTree/EmptyCoursesTree.h"
 
 
-void EmptyCoursesTree::toArrayKElements(const int num, TripletKey* array)
+void EmptyCoursesTree::toArrayKElements(const int num, Array<TripletKey>& array,int index)
 {
     int array_size=number_of_courses;
     if (number_of_courses>num)
@@ -13,11 +13,10 @@ void EmptyCoursesTree::toArrayKElements(const int num, TripletKey* array)
     {
         return; //throw problem
     }
-    std::shared_ptr<EmptyCoursesInfo>* unwatched_courses=new std::shared_ptr<EmptyCoursesInfo>[array_size];
-    part_empty_courses.topKElementsToArray(array_size, unwatched_courses);
+    Array<std::shared_ptr<EmptyCoursesInfo>> unwatched_courses(array_size);
+    part_empty_courses.topKElementsToArray(array_size, unwatched_courses,0);
     int fill_this_many;
     int left_to_fill=num;
-    int index=0;
     for (int i=0;i<array_size;i++)
     {
         int curr_list_size=unwatched_courses[i]->avoided_num;

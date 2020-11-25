@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1
+CMAKE_SOURCE_DIR = /home/nivyaal/Documents/technion/DS/wet1/DSwet1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1/build
+CMAKE_BINARY_DIR = /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build
 
 # Utility rule file for Continuous.
 
@@ -71,6 +71,6 @@ CMakeFiles/Continuous.dir/clean:
 .PHONY : CMakeFiles/Continuous.dir/clean
 
 CMakeFiles/Continuous.dir/depend:
-	cd /home/hod/Desktop/projects/wet1DS/DSwet1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hod/Desktop/projects/wet1DS/DSwet1 /home/hod/Desktop/projects/wet1DS/DSwet1 /home/hod/Desktop/projects/wet1DS/DSwet1/build /home/hod/Desktop/projects/wet1DS/DSwet1/build /home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles/Continuous.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/nivyaal/Documents/technion/DS/wet1/DSwet1 /home/nivyaal/Documents/technion/DS/wet1/DSwet1 /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build /home/nivyaal/Documents/technion/DS/wet1/DSwet1/build/CMakeFiles/Continuous.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Continuous.dir/depend
 
