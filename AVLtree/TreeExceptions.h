@@ -1,35 +1,32 @@
-#ifndef TREEEXCEPTIONS_H_
-#define TREEEXCEPTIONS_H_
+#ifndef DSEXCEPTIONS_H
+#define DSEXCEPTIONS_H
 
-class Exception:public std::exception
-{
-    public:
-    virtual ~Exception(){};
-};
+#include <iostream>
 
-class TreeException:public Exception
-{
-    public:
-    virtual ~TreeException(){};
-};
-
- class valExists:public TreeException
-{
-    public:
-    const char* what() const noexcept override
+    class AVLtreeException:public std::exception
     {
-        return "value already exists in the tree";
-    }
-    ~valExists()=default;
-};
+        public:
+        virtual ~AVLtreeException(){};
+    };
 
-class valDoesntExist:public TreeException
-{
-    public:
-    const char* what() const noexcept override
+    class valueDoesntExist:public AVLtreeException
     {
-        return "value doesnt exist in the tree";
-    }
-    ~valDoesntExist() = default;
-};
-#endif
+        public:
+        const char* what() const noexcept override
+        {
+            return "erase failure, value doesnt exist";
+        }
+        ~valueDoesntExist()=default;
+    };
+
+    class valueExist:public AVLtreeException
+    {
+        public:
+        const char* what() const noexcept override
+        {
+            return "insert failure , value already exist";
+        }
+        ~valueExist()=default;
+    };
+
+#endif //DSEXCEPTIONS

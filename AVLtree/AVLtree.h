@@ -43,15 +43,13 @@ class AVLtree
     static int getBf(Node<U,T>* v);
     Node<U,T>* findSubTree(const int size) const;
     static int InOrderToArray(const Node<U,T>* r, Array<T>& values_array,const int elements_num, int cnt,int index);
-
-    protected:
+    Node<U,T>* min_node;
     void updateRank(Node<U,T>* r);
     int getRank(const U& key);
     static void setParent(Node<U,T>*  son,Node<U,T>*  parent);
 
     public:
     Node<U,T>* root;
-    Node<U,T>* min_node;
     AVLtree():root(nullptr){};
     ~AVLtree();
     void insert(const U& key,const T& val);
@@ -78,6 +76,10 @@ T* AVLtree<U,T>::find(const U &key)
 template <class U,class T>
 int AVLtree<U,T>::getTreeSize() const
 {
+    if (root==nullptr)
+    {
+        return 0;
+    }
     return root->rank;    
 }
 
@@ -322,6 +324,10 @@ template<class U,class T>
 Node<U,T>* AVLtree<U,T>::findSucessor(const Node<U,T>* r)
 {
     Node<U,T>* curr=r->right;
+    if (curr==nullptr)
+    {
+        throw AVLtreeException();
+    }
     while (curr->left!=nullptr)
     {
         curr=curr->left;
@@ -367,7 +373,7 @@ Node<U,T>* AVLtree<U,T>::erase(const U& key,Node<U,T>* r)
     //throw key does not exist
     if (r == nullptr)
     {
-        throw;
+        throw valueDoesntExist();
     }
     if(r->key == key)
     {
@@ -458,7 +464,7 @@ Node<U,T>* AVLtree<U,T>::insert(const U& key,const T &val,Node<U,T>* r)
     }
     else
     {
-        throw valExists();
+        throw valueExist();
     }
     return r;
 }

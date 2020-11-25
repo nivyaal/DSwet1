@@ -5,7 +5,7 @@
  *      Author: shirel
  */
 
-#include "AVLtree/AVLtree.h"
+#include "AVLtree.h"
 #include <vector>
 #include <ostream>
 #include <random>
@@ -96,7 +96,7 @@ std::cout<<"case6"<<std::endl;
 	tree.printTree();
 	tree.treeClear();
 
-	//basic RR not root change case7
+	//basic RR not root change case7e
 	/*correct output
 1 BF: 0 Height: 0
 2 BF: 0 Height: 1
