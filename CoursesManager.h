@@ -5,13 +5,7 @@
 #include "SortedTree/SortedTree.h"
 #include "CoursesTree/CoursesTree.h"
 #include "SpecialNodes.h"
-
-typedef enum {
-    SUCCESS = 0,
-    FAILURE = -1,
-    ALLOCATION_ERROR = -2,
-    INVALID_INPUT = -3
-} StatusType;
+#include "library.h"
 
 class CoursesManager 
 {

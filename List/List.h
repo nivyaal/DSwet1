@@ -119,7 +119,7 @@ void List<T>::insertStart(const T& val,ListNode<T>* head)
 template<class T>
 void List<T>::ListToArrayKelements(int index,int fill_this_many,T* array)
 {
-    ListNode<T>* temp=tail->prev;
+    ListNode<T>* temp=head->next;
     if (this->getSize()==0)
     {
         return;
@@ -127,7 +127,7 @@ void List<T>::ListToArrayKelements(int index,int fill_this_many,T* array)
     for (int i=0;i<fill_this_many;i++)
     {
         array[index+i] = temp->value;
-        temp=temp->prev;
+        temp=temp->next;
     }
 }
 #endif

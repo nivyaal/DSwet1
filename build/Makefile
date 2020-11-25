@@ -655,6 +655,33 @@ SpecialNodes.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.s
 .PHONY : SpecialNodes.cpp.s
 
+library.o: library.cpp.o
+
+.PHONY : library.o
+
+# target to build an object file
+library.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.o
+.PHONY : library.cpp.o
+
+library.i: library.cpp.i
+
+.PHONY : library.i
+
+# target to preprocess a source file
+library.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.i
+.PHONY : library.cpp.i
+
+library.s: library.cpp.s
+
+.PHONY : library.s
+
+# target to generate assembly for a file
+library.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.s
+.PHONY : library.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -737,6 +764,9 @@ help:
 	@echo "... SpecialNodes.o"
 	@echo "... SpecialNodes.i"
 	@echo "... SpecialNodes.s"
+	@echo "... library.o"
+	@echo "... library.i"
+	@echo "... library.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

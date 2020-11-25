@@ -10,6 +10,7 @@ CMakeFiles/main.dir/CoursesManager.cpp.o: ../EmptyCoursesTree/EmptyCoursesTree.h
 CMakeFiles/main.dir/CoursesManager.cpp.o: ../List/List.h
 CMakeFiles/main.dir/CoursesManager.cpp.o: ../SortedTree/SortedTree.h
 CMakeFiles/main.dir/CoursesManager.cpp.o: ../SpecialNodes.h
+CMakeFiles/main.dir/CoursesManager.cpp.o: ../library.h
 
 CMakeFiles/main.dir/CoursesTree.cpp.o: ../AVLtree/AVLtree.h
 CMakeFiles/main.dir/CoursesTree.cpp.o: ../AVLtree/TreeExceptions.h
@@ -35,5 +36,17 @@ CMakeFiles/main.dir/SpecialNodes.cpp.o: ../AVLtree/TreeExceptions.h
 CMakeFiles/main.dir/SpecialNodes.cpp.o: ../SpecialNodes.cpp
 CMakeFiles/main.dir/SpecialNodes.cpp.o: ../SpecialNodes.h
 
+CMakeFiles/main.dir/library.cpp.o: ../AVLtree/AVLtree.h
+CMakeFiles/main.dir/library.cpp.o: ../AVLtree/TreeExceptions.h
+CMakeFiles/main.dir/library.cpp.o: ../CoursesManager.h
+CMakeFiles/main.dir/library.cpp.o: ../CoursesTree/CoursesTree.h
+CMakeFiles/main.dir/library.cpp.o: ../EmptyCoursesTree/EmptyCoursesTree.h
+CMakeFiles/main.dir/library.cpp.o: ../List/List.h
+CMakeFiles/main.dir/library.cpp.o: ../SortedTree/SortedTree.h
+CMakeFiles/main.dir/library.cpp.o: ../SpecialNodes.h
+CMakeFiles/main.dir/library.cpp.o: ../library.cpp
+CMakeFiles/main.dir/library.cpp.o: ../library.h
+
+CMakeFiles/main.dir/main.cpp.o: ../library.h
 CMakeFiles/main.dir/main.cpp.o: ../main.cpp
 

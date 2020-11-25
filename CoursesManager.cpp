@@ -10,7 +10,7 @@ StatusType CoursesManager::AddCourse (const int courseID,const int numOfClasses)
     }
     try
     {
-        if (main_tree.containCourse(courseID) == false)
+        if (main_tree.containCourse(courseID) != false)
         {   
             return FAILURE;
         }
@@ -40,15 +40,18 @@ StatusType CoursesManager::RemoveCourse(const int courseID)
         {   
             return FAILURE;
         }
-        main_tree.eraseCourse(courseID);
-        unwatched_tree.eraseCourse(courseID);
         int num_of_classes=main_tree.getNumOfClasses(courseID);
+        unwatched_tree.eraseCourse(courseID);
         int time_of_class;
         for (int i=0;i<num_of_classes;i++)
         {
             time_of_class=main_tree.getTimeOfClass(courseID,i);
+            if (time_of_class!=0)
+            {
             watched_tree.removeClass(courseID,i,time_of_class);
+            }
         }
+        main_tree.eraseCourse(courseID);
     }
     catch(const std::bad_alloc& e)
     {
@@ -142,7 +145,7 @@ StatusType CoursesManager::GetMostViewedClasses( const int numOfClasses, int *co
         if (numOfClasses>(watched_tree.getSize()))
         {
             watched_classes=watched_tree.getSize();
-            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array+watched_classes);
+            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array+numOfClasses-1-watched_classes);
         }
         watched_tree.topKtoArray(temp_array,watched_classes);
         for (int i=0;i<numOfClasses;i++)

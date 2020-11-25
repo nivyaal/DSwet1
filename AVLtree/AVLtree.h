@@ -29,7 +29,7 @@ class AVLtree
     void updateHeight(Node<U,T>* r);
     Node<U,T>* insert(const U& key,const T& val,Node<U,T>* r);
     static Node<U,T>* findSucessor(const Node<U,T>* r);
-    void updateMax( Node<U,T>* r);
+    void updateMin( Node<U,T>* r);
     void updateNodeInfo(Node<U,T>* r);
     static bool isLeaf(const Node<U,T>* vertex){return (vertex->right==nullptr&&vertex->left==nullptr);};
     static void blankTree(Node<U,T>* r);
@@ -41,7 +41,7 @@ class AVLtree
     int updateBf( Node<U,T>* r );
     static int getBf(Node<U,T>* v);
     Node<U,T>* findSubTree(const int size) const;
-    static int orderInToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt);
+    static int InOrderToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt);
 
     protected:
     void updateRank(Node<U,T>* r);
@@ -50,7 +50,7 @@ class AVLtree
 
     public:
     Node<U,T>* root;
-    Node<U,T>* max_node;
+    Node<U,T>* min_node;
     AVLtree():root(nullptr){};
     ~AVLtree();
     void insert(const U& key,const T& val);
@@ -84,23 +84,23 @@ template < class U,class T>
 void AVLtree<U,T>::topKElementsToArray(const int elements_num,T* values_array) const
 {
     Node<U,T>* temp=findSubTree(elements_num);
-   orderInToArray(temp,values_array,elements_num,0);
+   InOrderToArray(temp,values_array,elements_num,0);
 }
 
 template < class U,class T>
-int AVLtree<U,T>::orderInToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt) 
+int AVLtree<U,T>::InOrderToArray(const Node<U,T>* r, T* values_array,const int elements_num, int cnt) 
 {
     if (cnt == elements_num || r==nullptr)
     {
         return cnt;
     }
-    cnt = orderInToArray(r->right,values_array,elements_num, cnt);
+    cnt = InOrderToArray(r->left,values_array,elements_num, cnt);
     if(cnt == elements_num)
     {
         return cnt;
     }
     values_array[cnt++] = r->value;
-    cnt = orderInToArray(r->left,values_array,elements_num, cnt);
+    cnt = InOrderToArray(r->right,values_array,elements_num, cnt);
     return cnt;
 }
 
@@ -108,7 +108,7 @@ int AVLtree<U,T>::orderInToArray(const Node<U,T>* r, T* values_array,const int e
 template <class U,class T>
 Node<U,T>* AVLtree<U,T>::findSubTree(const int size) const 
 {
-    Node<U,T>* r = max_node;
+    Node<U,T>* r = min_node;
     while (r->rank < size)
     {
         if(r->parent == nullptr)
@@ -144,19 +144,19 @@ void AVLtree<U,T>::updateRank(Node<U,T>* r)
 }
 
 template<class U,class T>
-void AVLtree<U,T>::updateMax( Node<U,T>* r)
+void AVLtree<U,T>::updateMin( Node<U,T>* r)
 {
     if (r==nullptr||r->right==nullptr)
     {
-        max_node=r;
+        min_node=r;
         return;
     }
     Node<U,T>* temp = r;
-    while (temp->right!=nullptr)
+    while (temp->left!=nullptr)
     {
-        temp=temp->right;
+        temp=temp->left;
     }
-    max_node=temp;
+    min_node=temp;
 }
 
 template<class U,class T>
@@ -350,14 +350,14 @@ template<class U, class T>
 void AVLtree<U,T>::erase(const U& key)
 {
     root=erase(key,root);
-    updateMax(root);
+    updateMin(root);
 }
 
 template<class U,class T>
 void AVLtree<U,T>::insert(const U& key,const T& val)
 {
     root=insert(key,val,root);
-    updateMax(root);
+    updateMin(root);
 }
 
 template<class U,class T>

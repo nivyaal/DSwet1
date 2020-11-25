@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/main.dir/SortedTree.cpp.o"
   "CMakeFiles/main.dir/SpecialNodes.cpp.o"
   "CMakeFiles/main.dir/CoursesTree.cpp.o"
+  "CMakeFiles/main.dir/library.cpp.o"
   "main.pdb"
   "main"
 )
