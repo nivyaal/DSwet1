@@ -520,6 +520,87 @@ ExperimentalBuild/fast:
 	$(MAKE) -f CMakeFiles/ExperimentalBuild.dir/build.make CMakeFiles/ExperimentalBuild.dir/build
 .PHONY : ExperimentalBuild/fast
 
+CoursesManager.o: CoursesManager.cpp.o
+
+.PHONY : CoursesManager.o
+
+# target to build an object file
+CoursesManager.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesManager.cpp.o
+.PHONY : CoursesManager.cpp.o
+
+CoursesManager.i: CoursesManager.cpp.i
+
+.PHONY : CoursesManager.i
+
+# target to preprocess a source file
+CoursesManager.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesManager.cpp.i
+.PHONY : CoursesManager.cpp.i
+
+CoursesManager.s: CoursesManager.cpp.s
+
+.PHONY : CoursesManager.s
+
+# target to generate assembly for a file
+CoursesManager.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesManager.cpp.s
+.PHONY : CoursesManager.cpp.s
+
+CoursesTree.o: CoursesTree.cpp.o
+
+.PHONY : CoursesTree.o
+
+# target to build an object file
+CoursesTree.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesTree.cpp.o
+.PHONY : CoursesTree.cpp.o
+
+CoursesTree.i: CoursesTree.cpp.i
+
+.PHONY : CoursesTree.i
+
+# target to preprocess a source file
+CoursesTree.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesTree.cpp.i
+.PHONY : CoursesTree.cpp.i
+
+CoursesTree.s: CoursesTree.cpp.s
+
+.PHONY : CoursesTree.s
+
+# target to generate assembly for a file
+CoursesTree.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesTree.cpp.s
+.PHONY : CoursesTree.cpp.s
+
+EmptyCoursesTree.o: EmptyCoursesTree.cpp.o
+
+.PHONY : EmptyCoursesTree.o
+
+# target to build an object file
+EmptyCoursesTree.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.o
+.PHONY : EmptyCoursesTree.cpp.o
+
+EmptyCoursesTree.i: EmptyCoursesTree.cpp.i
+
+.PHONY : EmptyCoursesTree.i
+
+# target to preprocess a source file
+EmptyCoursesTree.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.i
+.PHONY : EmptyCoursesTree.cpp.i
+
+EmptyCoursesTree.s: EmptyCoursesTree.cpp.s
+
+.PHONY : EmptyCoursesTree.s
+
+# target to generate assembly for a file
+EmptyCoursesTree.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.s
+.PHONY : EmptyCoursesTree.cpp.s
+
 SortedTree.o: SortedTree.cpp.o
 
 .PHONY : SortedTree.o
@@ -547,33 +628,6 @@ SortedTree.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SortedTree.cpp.s
 .PHONY : SortedTree.cpp.s
 
-SortedTree/SortedTreeTest.o: SortedTree/SortedTreeTest.cpp.o
-
-.PHONY : SortedTree/SortedTreeTest.o
-
-# target to build an object file
-SortedTree/SortedTreeTest.cpp.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SortedTree/SortedTreeTest.cpp.o
-.PHONY : SortedTree/SortedTreeTest.cpp.o
-
-SortedTree/SortedTreeTest.i: SortedTree/SortedTreeTest.cpp.i
-
-.PHONY : SortedTree/SortedTreeTest.i
-
-# target to preprocess a source file
-SortedTree/SortedTreeTest.cpp.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SortedTree/SortedTreeTest.cpp.i
-.PHONY : SortedTree/SortedTreeTest.cpp.i
-
-SortedTree/SortedTreeTest.s: SortedTree/SortedTreeTest.cpp.s
-
-.PHONY : SortedTree/SortedTreeTest.s
-
-# target to generate assembly for a file
-SortedTree/SortedTreeTest.cpp.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SortedTree/SortedTreeTest.cpp.s
-.PHONY : SortedTree/SortedTreeTest.cpp.s
-
 SpecialNodes.o: SpecialNodes.cpp.o
 
 .PHONY : SpecialNodes.o
@@ -600,6 +654,60 @@ SpecialNodes.s: SpecialNodes.cpp.s
 SpecialNodes.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.s
 .PHONY : SpecialNodes.cpp.s
+
+library.o: library.cpp.o
+
+.PHONY : library.o
+
+# target to build an object file
+library.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.o
+.PHONY : library.cpp.o
+
+library.i: library.cpp.i
+
+.PHONY : library.i
+
+# target to preprocess a source file
+library.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.i
+.PHONY : library.cpp.i
+
+library.s: library.cpp.s
+
+.PHONY : library.s
+
+# target to generate assembly for a file
+library.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.s
+.PHONY : library.cpp.s
+
+main.o: main.cpp.o
+
+.PHONY : main.o
+
+# target to build an object file
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.o
+.PHONY : main.cpp.o
+
+main.i: main.cpp.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -641,15 +749,27 @@ help:
 	@echo "... ContinuousTest"
 	@echo "... ContinuousUpdate"
 	@echo "... ExperimentalBuild"
+	@echo "... CoursesManager.o"
+	@echo "... CoursesManager.i"
+	@echo "... CoursesManager.s"
+	@echo "... CoursesTree.o"
+	@echo "... CoursesTree.i"
+	@echo "... CoursesTree.s"
+	@echo "... EmptyCoursesTree.o"
+	@echo "... EmptyCoursesTree.i"
+	@echo "... EmptyCoursesTree.s"
 	@echo "... SortedTree.o"
 	@echo "... SortedTree.i"
 	@echo "... SortedTree.s"
-	@echo "... SortedTree/SortedTreeTest.o"
-	@echo "... SortedTree/SortedTreeTest.i"
-	@echo "... SortedTree/SortedTreeTest.s"
 	@echo "... SpecialNodes.o"
 	@echo "... SpecialNodes.i"
 	@echo "... SpecialNodes.s"
+	@echo "... library.o"
+	@echo "... library.i"
+	@echo "... library.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

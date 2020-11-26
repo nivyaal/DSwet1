@@ -1,7 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/SortedTree/SortedTreeTest.cpp.o"
+  "CMakeFiles/main.dir/main.cpp.o"
+  "CMakeFiles/main.dir/library.cpp.o"
+  "CMakeFiles/main.dir/CoursesManager.cpp.o"
+  "CMakeFiles/main.dir/CoursesTree.cpp.o"
   "CMakeFiles/main.dir/SortedTree.cpp.o"
   "CMakeFiles/main.dir/SpecialNodes.cpp.o"
+  "CMakeFiles/main.dir/EmptyCoursesTree.cpp.o"
   "main.pdb"
   "main"
 )

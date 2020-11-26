@@ -86,6 +86,10 @@ int AVLtree<U,T>::getTreeSize() const
 template < class U,class T>
 void AVLtree<U,T>::topKElementsToArray(const int elements_num, Array<T>& values_array,int starting_index) const
 {
+    if (root==nullptr)
+    {
+        return;
+    }
     Node<U,T>* temp=findSubTree(elements_num);
    InOrderToArray(temp,values_array,elements_num,0,starting_index);
 }

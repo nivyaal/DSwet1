@@ -145,7 +145,7 @@ StatusType CoursesManager::GetMostViewedClasses( const int numOfClasses, int *co
         if (numOfClasses>(watched_tree.getSize()))
         {
             watched_classes=watched_tree.getSize();
-            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array,numOfClasses-1-watched_classes);
+            unwatched_tree.toArrayKElements(numOfClasses-watched_classes,temp_array,watched_classes);
         }
         watched_tree.topKtoArray(temp_array,watched_classes,0);
         for (int i=0;i<numOfClasses;i++)
