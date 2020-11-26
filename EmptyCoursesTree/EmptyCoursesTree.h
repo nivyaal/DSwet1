@@ -6,6 +6,11 @@
 #include "memory"
 #include "../Array/Array.h"
 
+
+
+class EmptyCoursesTree
+{    
+    private:
     class EmptyCoursesInfo
     {
         private:
@@ -32,10 +37,6 @@
 
     };
 
-class EmptyCoursesTree
-{    
-    private:
-
     AVLtree<int,std::shared_ptr<EmptyCoursesInfo>> part_empty_courses;
     int total_unwatched=0;
     int number_of_courses=0;
@@ -45,6 +46,8 @@ class EmptyCoursesTree
     void insertCourse(const int course_id,const int num_of_classes);
     void eraseCourse(const int course_id);
     void watchClass(const int course_id,const int class_num,const int time);
+    int getClassesNum() const{return total_unwatched;};
+    int getCoursesNum() const {return number_of_courses;};
 };
 
 
