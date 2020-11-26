@@ -1,0 +1,1244 @@
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	3
+
+14	|	4
+
+14	|	7
+
+4	|	2
+
+14	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+14	|	3
+
+14	|	4
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+14	|	3
+
+14	|	4
+
+4	|	2
+
+14	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+14	|	3
+
+14	|	4
+
+4	|	2
+
+14	|	0
+
+14	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+14	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+14	|	0
+
+14	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+14	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+2	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+2	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+2	|	5
+
+11	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+14	|	2
+
+14	|	7
+
+20	|	3
+
+17	|	3
+
+17	|	8
+
+9	|	2
+
+2	|	2
+
+14	|	3
+
+14	|	4
+
+9	|	6
+
+4	|	2
+
+2	|	0
+
+--End of most viewed classes--
+

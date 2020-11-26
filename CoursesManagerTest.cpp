@@ -3,10 +3,15 @@
 #include <map>
 #include <vector>
 #include <algorithm>
-#define TEST_ADD_REMOVE_PARMATER 5
-#define TEST_WATCHCLASS_PARMATER 5
-#define POLL 5
+#include <iostream>
+#include <fstream>
+
+#define TEST_ADD_REMOVE_PARMATER 20
+#define TEST_WATCHCLASS_PARMATER 20
+#define TEST_GETMOST_PARMATER 20
+#define POLL 20
 int cnt=0;
+int line_cnt=0;
 
 using namespace std;
 typedef enum {
@@ -26,9 +31,15 @@ void writeReset();
 void CheckWatchClass();
 
 
+void writegetMost(int k)
+{
+    std::cout<<"DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+");"<<std::endl;
+}
 
 void writeAdd(ResultType res,int classID,int classNUM)
 {
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
     if (res==FAIL)
     {
         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".AddCourse("+to_string(classID)+","+to_string(classNUM)+")==FAILURE);"<<std::endl;
@@ -50,6 +61,8 @@ void writeAdd(ResultType res,int classID,int classNUM)
 }
 void writeRemove(ResultType res,int classID)
 {
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
     if (res==FAIL)
     {
         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".RemoveCourse("+to_string(classID)+")==FAILURE);"<<std::endl;
@@ -72,6 +85,8 @@ void writeRemove(ResultType res,int classID)
 
 void writeWatch(ResultType res,int classID,int classNum,int time)
 {
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
     if (res==FAIL)
     {
         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".WatchClass("+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==FAILURE);"<<std::endl;
@@ -93,6 +108,8 @@ void writeWatch(ResultType res,int classID,int classNum,int time)
 }
 void writeTimeView(ResultType res,int classID,int classNum,int total_time)
 {
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
     if (res==FAIL)
     {
         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".TimeViewed("+to_string(classID)+","+to_string(classNum)+",timeviewed)==FAILURE);"<<std::endl;
@@ -115,6 +132,8 @@ void writeTimeView(ResultType res,int classID,int classNum,int total_time)
 }
 void writeEmptyInit()
 {
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
     cnt++;
     std::cout<<"CoursesManager DS"+to_string(cnt)+";"<<std::endl;
 }
@@ -199,7 +218,6 @@ void CheckAddRemove()
     
     void CheckWatchClass()
 {
-    //map<COURSEID,map<CLASSNUM,TIME>>
     map<int,map<int,int>> M;
     writeEmptyInit();
     for (int i=0;i<TEST_WATCHCLASS_PARMATER;i++)
@@ -243,33 +261,34 @@ void CheckAddRemove()
             
         }
             int iter=rand()% classNum;
-            if (M.find(courseID)!=M.end()&&M[courseID].size()>iter)
+            if (M.find(courseID)!=M.end())
             {
-                for (int i=0;i<iter;i++)
+                if (iter>M[courseID].size())
                 {
-                    int classtoadd=rand()% classNum;
-                    writeWatch(SUC,courseID, classtoadd,time);
-                    (M[courseID])[classtoadd]=(M[courseID])[classtoadd]+time;
-                    writeTimeView(SUC,courseID,classtoadd,(M[courseID])[classtoadd]);
+                    writeWatch(INVALID,courseID,iter,time);
+                    writeTimeView(INVALID,courseID,iter,0);
                 }
-
+                else
+                {                
+                    for (int i=0;i<iter;i++)
+                    {
+                        int classtoadd=rand()% iter;
+                        writeWatch(SUC,courseID, classtoadd,time);
+                        (M[courseID])[classtoadd]=(M[courseID])[classtoadd]+time;
+                        writeTimeView(SUC,courseID,classtoadd,(M[courseID])[classtoadd]);
+                    }
+                }
             }
             else
             {
-                if (M[courseID].size()<iter)
+                if (M.find(courseID)==M.end())
                 {
-                    writeWatch(INVALID,courseID,iter,time);
-                    writeTimeView(INVALID,courseID,iter,0);                    
-                }
-                else
-                {
-                                    
                     writeWatch(FAIL,courseID,iter,time);
-                    writeTimeView(FAIL,courseID,iter,0);
+                    writeTimeView(FAIL,courseID,iter,0);                    
                 }
 
             }
-            
+        
     }
      map<int,map<int,int>>::iterator big_it;
         map<int,int>::iterator small_it;
@@ -283,6 +302,135 @@ void CheckAddRemove()
         }
 
 }
+
+void checkGetMostViews()
+{
+    ofstream myfile;
+    myfile.open("output.txt");
+    map<int,map<int,int>> M;
+    int k=rand()% 6;
+
+        writeEmptyInit();
+    for (int i=0;i<TEST_GETMOST_PARMATER;i++)
+    {
+        //invalid input
+        int time=rand ()% POLL+1;
+        int classNum=rand ()% POLL+1;
+        int courseID= rand ()% POLL+1;
+        int k=rand()%6;
+
+        if (k==4)//remove Course
+        {
+            
+            if (M.find(courseID)!=M.end())
+            {
+                writeRemove(SUC,courseID);
+                M.erase(courseID);
+            }
+            else
+            {
+                writeRemove(FAIL,courseID);
+            }
+            
+        }
+        else //add
+        {
+            if (M.find(courseID)==M.end())
+            {
+                writeAdd(SUC,courseID,classNum);
+                map<int,int> temp_map;
+                for (int i=0;i<classNum;i++)
+                {
+                    temp_map[i]=0;
+                }
+                M[courseID]=temp_map;
+            }
+            else
+            {
+                writeAdd(FAIL,courseID,classNum);
+            }
+
+            
+        }
+            int iter=rand()% classNum;
+            if (M.find(courseID)!=M.end())
+            {
+                if (iter>M[courseID].size())
+                {
+                    writeWatch(INVALID,courseID,iter,time);
+                    writeTimeView(INVALID,courseID,iter,0);
+                }
+                else
+                {                
+                    for (int i=0;i<iter;i++)
+                    {
+                        int classtoadd=rand()% iter;
+                        writeWatch(SUC,courseID, classtoadd,time);
+                        (M[courseID])[classtoadd]=(M[courseID])[classtoadd]+time;
+                        writeTimeView(SUC,courseID,classtoadd,(M[courseID])[classtoadd]);
+                    }
+                }
+            }
+            else
+            {
+                if (M.find(courseID)==M.end())
+                {
+                    writeWatch(FAIL,courseID,iter,time);
+                    writeTimeView(FAIL,courseID,iter,0);                    
+                }
+
+            }
+
+        if (rand()%2==1)
+        {
+            map<int,map<int,int>>::iterator big_it;
+            map<int,int>::iterator small_it;
+            map<int,map<int,vector<int>>> mymap;
+            for (big_it =M.begin(); big_it!=M.end();big_it++) 
+            {
+                for (small_it=(big_it->second).begin(); small_it!=(big_it->second).end();small_it++)
+                {
+                    mymap[small_it->second][big_it->first].push_back(small_it->first);
+                }
+            }
+             map<int,vector<int>>::iterator it2;
+             vector<int>::iterator it3;
+            for (int i=1;i<=M.size();i++)
+            {
+                writegetMost(i);                
+                int cnt=0;
+                myfile<< "Course\t|\tClass\n"<<std::endl;
+                for(auto it1 =mymap.rbegin();it1!=mymap.rend();++it1)
+                {
+                    for(it2=(it1->second.begin());it2!=(it1->second).end();it2++)
+                    {
+                        sort(it2->second.begin(),it2->second.end());
+                        for (it3=(it2->second.begin());it3!=(it2->second).end();it3++)
+                        {
+                            if (cnt==i)
+                            {
+                                break;
+                            }
+                            myfile<<to_string(it2->first)+"\t|\t"+to_string(*it3)+"\n"<<std::endl;
+                            cnt++;
+                        }
+                        if (cnt==i)
+                        {
+                            break;
+                        }
+                    }
+                    if (cnt==i)
+                    {
+                        break;
+                    }
+                }
+                myfile<<"--End of most viewed classes--\n"<<std::endl;
+           }
+        }    
+    }
+    myfile.flush();
+    myfile.close();
+}
  
 int main()
 {
@@ -292,6 +440,7 @@ int main()
     std::cout<<"int* timeviewed=new int;"<<std::endl;
     CheckAddRemove();
     CheckWatchClass();
+    checkGetMostViews();
     std::cout<<"delete timeviewed;"<<std::endl;
     std::cout<<"}"<<std::endl;
 

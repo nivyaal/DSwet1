@@ -5,7 +5,8 @@ include(CTest)
 enable_testing()
 
 
-add_executable(main CoursesManagerTest.cpp )
+add_executable(main test.cpp CoursesManager.cpp SortedTree.cpp CoursesTree.cpp SpecialNodes.cpp EmptyCoursesTree.cpp   )
+#add_executable(main CoursesManagerTest.cpp)
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
