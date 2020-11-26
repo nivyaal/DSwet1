@@ -57,41 +57,171 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/CoursesManagerTest.cpp.o: ../CoursesManagerTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/CoursesManagerTest.cpp.o"
-	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/CoursesManagerTest.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp
+CMakeFiles/main.dir/test.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/test.cpp.o: ../test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/test.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/test.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/test.cpp
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/CoursesManagerTest.cpp.i"
-	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp > CMakeFiles/main.dir/CoursesManagerTest.cpp.i
+CMakeFiles/main.dir/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/test.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/test.cpp > CMakeFiles/main.dir/test.cpp.i
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/CoursesManagerTest.cpp.s"
-	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp -o CMakeFiles/main.dir/CoursesManagerTest.cpp.s
+CMakeFiles/main.dir/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/test.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/test.cpp -o CMakeFiles/main.dir/test.cpp.s
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.o.requires:
+CMakeFiles/main.dir/test.cpp.o.requires:
 
-.PHONY : CMakeFiles/main.dir/CoursesManagerTest.cpp.o.requires
+.PHONY : CMakeFiles/main.dir/test.cpp.o.requires
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.o.provides: CMakeFiles/main.dir/CoursesManagerTest.cpp.o.requires
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesManagerTest.cpp.o.provides.build
-.PHONY : CMakeFiles/main.dir/CoursesManagerTest.cpp.o.provides
+CMakeFiles/main.dir/test.cpp.o.provides: CMakeFiles/main.dir/test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/test.cpp.o.provides
 
-CMakeFiles/main.dir/CoursesManagerTest.cpp.o.provides.build: CMakeFiles/main.dir/CoursesManagerTest.cpp.o
+CMakeFiles/main.dir/test.cpp.o.provides.build: CMakeFiles/main.dir/test.cpp.o
+
+
+CMakeFiles/main.dir/CoursesManager.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CoursesManager.cpp.o: ../CoursesManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/CoursesManager.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/CoursesManager.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp
+
+CMakeFiles/main.dir/CoursesManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/CoursesManager.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp > CMakeFiles/main.dir/CoursesManager.cpp.i
+
+CMakeFiles/main.dir/CoursesManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/CoursesManager.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp -o CMakeFiles/main.dir/CoursesManager.cpp.s
+
+CMakeFiles/main.dir/CoursesManager.cpp.o.requires:
+
+.PHONY : CMakeFiles/main.dir/CoursesManager.cpp.o.requires
+
+CMakeFiles/main.dir/CoursesManager.cpp.o.provides: CMakeFiles/main.dir/CoursesManager.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesManager.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/CoursesManager.cpp.o.provides
+
+CMakeFiles/main.dir/CoursesManager.cpp.o.provides.build: CMakeFiles/main.dir/CoursesManager.cpp.o
+
+
+CMakeFiles/main.dir/SortedTree.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/SortedTree.cpp.o: ../SortedTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/SortedTree.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/SortedTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp
+
+CMakeFiles/main.dir/SortedTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/SortedTree.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp > CMakeFiles/main.dir/SortedTree.cpp.i
+
+CMakeFiles/main.dir/SortedTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/SortedTree.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp -o CMakeFiles/main.dir/SortedTree.cpp.s
+
+CMakeFiles/main.dir/SortedTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/main.dir/SortedTree.cpp.o.requires
+
+CMakeFiles/main.dir/SortedTree.cpp.o.provides: CMakeFiles/main.dir/SortedTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SortedTree.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/SortedTree.cpp.o.provides
+
+CMakeFiles/main.dir/SortedTree.cpp.o.provides.build: CMakeFiles/main.dir/SortedTree.cpp.o
+
+
+CMakeFiles/main.dir/CoursesTree.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CoursesTree.cpp.o: ../CoursesTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/CoursesTree.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/CoursesTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp
+
+CMakeFiles/main.dir/CoursesTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/CoursesTree.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp > CMakeFiles/main.dir/CoursesTree.cpp.i
+
+CMakeFiles/main.dir/CoursesTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/CoursesTree.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp -o CMakeFiles/main.dir/CoursesTree.cpp.s
+
+CMakeFiles/main.dir/CoursesTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/main.dir/CoursesTree.cpp.o.requires
+
+CMakeFiles/main.dir/CoursesTree.cpp.o.provides: CMakeFiles/main.dir/CoursesTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CoursesTree.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/CoursesTree.cpp.o.provides
+
+CMakeFiles/main.dir/CoursesTree.cpp.o.provides.build: CMakeFiles/main.dir/CoursesTree.cpp.o
+
+
+CMakeFiles/main.dir/SpecialNodes.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/SpecialNodes.cpp.o: ../SpecialNodes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/SpecialNodes.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/SpecialNodes.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp
+
+CMakeFiles/main.dir/SpecialNodes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/SpecialNodes.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp > CMakeFiles/main.dir/SpecialNodes.cpp.i
+
+CMakeFiles/main.dir/SpecialNodes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/SpecialNodes.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp -o CMakeFiles/main.dir/SpecialNodes.cpp.s
+
+CMakeFiles/main.dir/SpecialNodes.cpp.o.requires:
+
+.PHONY : CMakeFiles/main.dir/SpecialNodes.cpp.o.requires
+
+CMakeFiles/main.dir/SpecialNodes.cpp.o.provides: CMakeFiles/main.dir/SpecialNodes.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/SpecialNodes.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/SpecialNodes.cpp.o.provides
+
+CMakeFiles/main.dir/SpecialNodes.cpp.o.provides.build: CMakeFiles/main.dir/SpecialNodes.cpp.o
+
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.o: ../EmptyCoursesTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/EmptyCoursesTree.cpp.o"
+	/usr/bin/x86_64-linux-gnu-g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/EmptyCoursesTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/EmptyCoursesTree.cpp.i"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp > CMakeFiles/main.dir/EmptyCoursesTree.cpp.i
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/EmptyCoursesTree.cpp.s"
+	/usr/bin/x86_64-linux-gnu-g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp -o CMakeFiles/main.dir/EmptyCoursesTree.cpp.s
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.requires
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.provides: CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.provides.build
+.PHONY : CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.provides
+
+CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.provides.build: CMakeFiles/main.dir/EmptyCoursesTree.cpp.o
 
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/CoursesManagerTest.cpp.o"
+"CMakeFiles/main.dir/test.cpp.o" \
+"CMakeFiles/main.dir/CoursesManager.cpp.o" \
+"CMakeFiles/main.dir/SortedTree.cpp.o" \
+"CMakeFiles/main.dir/CoursesTree.cpp.o" \
+"CMakeFiles/main.dir/SpecialNodes.cpp.o" \
+"CMakeFiles/main.dir/EmptyCoursesTree.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-main: CMakeFiles/main.dir/CoursesManagerTest.cpp.o
+main: CMakeFiles/main.dir/test.cpp.o
+main: CMakeFiles/main.dir/CoursesManager.cpp.o
+main: CMakeFiles/main.dir/SortedTree.cpp.o
+main: CMakeFiles/main.dir/CoursesTree.cpp.o
+main: CMakeFiles/main.dir/SpecialNodes.cpp.o
+main: CMakeFiles/main.dir/EmptyCoursesTree.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hod/Desktop/projects/wet1DS/DSwet1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -99,7 +229,12 @@ CMakeFiles/main.dir/build: main
 
 .PHONY : CMakeFiles/main.dir/build
 
-CMakeFiles/main.dir/requires: CMakeFiles/main.dir/CoursesManagerTest.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/test.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/CoursesManager.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/SortedTree.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/CoursesTree.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/SpecialNodes.cpp.o.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/EmptyCoursesTree.cpp.o.requires
 
 .PHONY : CMakeFiles/main.dir/requires
 

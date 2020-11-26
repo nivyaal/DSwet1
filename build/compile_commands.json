@@ -1,7 +1,32 @@
 [
 {
   "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/CoursesManagerTest.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp",
-  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp"
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/test.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/test.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/test.cpp"
+},
+{
+  "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/CoursesManager.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp"
+},
+{
+  "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/SortedTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp"
+},
+{
+  "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/CoursesTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp"
+},
+{
+  "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/SpecialNodes.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp"
+},
+{
+  "directory": "/home/hod/Desktop/projects/wet1DS/DSwet1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/main.dir/EmptyCoursesTree.cpp.o -c /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp",
+  "file": "/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp"
 }
 ]
