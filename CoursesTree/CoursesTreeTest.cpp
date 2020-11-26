@@ -62,9 +62,9 @@ bool eraseCourse()
     tree.eraseCourse(5);
     tree.eraseCourse(10);
     tree.eraseCourse(20);
-    ASSERT_TEST(tree.containCourse(5));
-    ASSERT_TEST(tree.containCourse(10));
-    ASSERT_TEST(tree.containCourse(20));
+    ASSERT_TEST(!tree.containCourse(5));
+    ASSERT_TEST(!tree.containCourse(10));
+    ASSERT_TEST(!tree.containCourse(20));
     return true;
 }
 
@@ -76,7 +76,7 @@ bool watchClass()
     ASSERT_TEST(tree.getTimeOfClass(5,3)==0);
     tree.watchClass(5,3,10);
     ASSERT_TEST(tree.getTimeOfClass(5,3)==10);
-    ASSERT_TEST(tree.getNumOfClasses(5)==10);
+    ASSERT_TEST(tree.getNumOfClasses(5)==5);
     return true;
 }
 
