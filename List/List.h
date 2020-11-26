@@ -24,7 +24,6 @@ class List
     int size;
     ListNode<T>* head; // smallest val
     ListNode<T>* tail; // biggest val
-    void deleteCurr(ListNode<T>* curr_ListNode);
     void insertStart(const T& val,ListNode<T>* head);
     void remove(const T& val,ListNode<T>* head);
     void emptyList(ListNode<T>* curr);
@@ -43,7 +42,7 @@ class List
 template <class T>
 void List<T>::remove(ListNode<T>* curr)
 {
-    if (curr==nullptr)
+    if (curr==nullptr|| curr ==head || curr == tail)
     {
         return;
     }
