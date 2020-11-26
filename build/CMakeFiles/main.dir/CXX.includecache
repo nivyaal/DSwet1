@@ -22,12 +22,6 @@ iostream
 iostream
 -
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.cpp
-iostream
--
-CoursesManager.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
-
 /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
 iostream
 -
@@ -42,11 +36,17 @@ SpecialNodes.h
 library.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/library.h
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree.cpp
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManagerTest.cpp
+CoursesManager.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
 iostream
 -
-CoursesTree/CoursesTree.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/CoursesTree.h
+map
+-
+vector
+-
+algorithm
+-
 
 /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/CoursesTree.h
 ../AVLtree/AVLtree.h
@@ -57,12 +57,6 @@ memory
 /home/hod/Desktop/projects/wet1DS/DSwet1/CoursesTree/memory
 ../Array/Array.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/Array/Array.h
-
-/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree.cpp
-iostream
--
-EmptyCoursesTree/EmptyCoursesTree.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree/EmptyCoursesTree.h
 
 /home/hod/Desktop/projects/wet1DS/DSwet1/EmptyCoursesTree/EmptyCoursesTree.h
 ../AVLtree/AVLtree.h
@@ -82,12 +76,6 @@ iostream
 ../Array/Array.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/Array/Array.h
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree.cpp
-iostream
--
-SortedTree/SortedTree.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree/SortedTree.h
-
 /home/hod/Desktop/projects/wet1DS/DSwet1/SortedTree/SortedTree.h
 ../AVLtree/AVLtree.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/AVLtree.h
@@ -96,33 +84,11 @@ SortedTree/SortedTree.h
 ../Array/Array.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/Array/Array.h
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.cpp
-SpecialNodes.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.h
-
 /home/hod/Desktop/projects/wet1DS/DSwet1/SpecialNodes.h
 iostream
 -
 AVLtree/AVLtree.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/AVLtree/AVLtree.h
 
-/home/hod/Desktop/projects/wet1DS/DSwet1/library.cpp
-library.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/library.h
-CoursesManager.h
-/home/hod/Desktop/projects/wet1DS/DSwet1/CoursesManager.h
-
-/home/hod/Desktop/projects/wet1DS/DSwet1/library.h
-
-/home/hod/Desktop/projects/wet1DS/DSwet1/main.cpp
-assert.h
--
-stdio.h
--
-stdlib.h
--
-string.h
--
-library.h
 /home/hod/Desktop/projects/wet1DS/DSwet1/library.h
 

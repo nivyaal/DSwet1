@@ -72,7 +72,17 @@ StatusType CoursesManager::WatchClass(const int courseID,const int classID,const
         return INVALID_INPUT;
     }
     try
-    {        
+    {  
+        if (main_tree.containCourse(courseID) == false)
+        {   
+            return FAILURE;
+        }
+
+         if (classID>=main_tree.getNumOfClasses(courseID))
+        {
+            return INVALID_INPUT;
+        }
+        
         int time_watched = main_tree.getTimeOfClass(courseID,classID);
         if (time_watched == 0)
         {

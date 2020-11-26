@@ -19,6 +19,8 @@ extern "C" {
 #endif
 
 /* Return Values
+add_executable(main test.cpp CoursesManager.cpp SortedTree.cpp CoursesTree.cpp SpecialNodes.cpp EmptyCoursesTree.cpp   )
+
  * ----------------------------------- */
 typedef enum {
     SUCCESS = 0,
