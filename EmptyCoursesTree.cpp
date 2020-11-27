@@ -1,5 +1,5 @@
 #include <iostream>
-#include "EmptyCoursesTree.h"
+#include "EmptyCoursesTree/EmptyCoursesTree.h"
 
 
 void EmptyCoursesTree::toArrayKElements(const int num, Array<TripletKey>& array,int index)
@@ -19,10 +19,6 @@ void EmptyCoursesTree::toArrayKElements(const int num, Array<TripletKey>& array,
     int left_to_fill=num;
     for (int i=0;i<array_size;i++)
     {
-        if (i == 7)
-        {
-            std::cout<<"now"<<std::endl;
-        }
         int curr_list_size=unwatched_courses[i]->avoided_num;
         fill_this_many=curr_list_size;
         if (left_to_fill<curr_list_size)

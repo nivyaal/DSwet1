@@ -1,14 +1,15 @@
-#include "CoursesManager.h"
+#include "../CoursesManager.h"
 #include <iostream>
 #include <map>
 #include <vector>
 #include <algorithm>
 #include <iostream>
 #include <fstream>
+#include<time.h>
 
-#define TEST_ADD_REMOVE_PARMATER 20
-#define TEST_WATCHCLASS_PARMATER 20
-#define TEST_GETMOST_PARMATER 20
+#define TEST_ADD_REMOVE_PARMATER 50
+#define TEST_WATCHCLASS_PARMATER 50
+#define TEST_GETMOST_PARMATER 50
 #define POLL 20
 int cnt=0;
 int line_cnt=0;
@@ -29,11 +30,49 @@ void writeTimeView(ResultType res,int classID,int classNum,int total_time);
 void writeEmptyInit();
 void writeReset();
 void CheckWatchClass();
+void writeallocate(int array_size);
+void writedeallocate();
+void writePrint();
 
-
-void writegetMost(int k)
+void writePrint(int numOfClasses)
 {
-    std::cout<<"DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+");"<<std::endl;
+    std::cout<<"printFunc("+to_string(numOfClasses)+",courses,classes,myfile);"<<std::endl;
+}
+
+void writedeallocate()
+{
+    std::cout<<"delete[] classes;"<<std::endl;
+    std::cout<<"delete[] courses;"<<std::endl;
+}
+void writeallocate(int array_size)
+{
+    std::cout<<"classes=new int["+to_string(array_size)+"];"<<std::endl;
+    std::cout<<"courses=new int["+to_string(array_size)+"];"<<std::endl;    
+}
+
+void writegetMost(ResultType res,int k)
+{
+    std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
+    line_cnt++;
+    if(res==FAIL)
+    {
+        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==FAILURE);"<<std::endl;
+    }
+    else if (res==SUC)
+    {
+         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==SUCCESS);"<<std::endl;
+    }
+    else if (res==NOVALUE )
+    {
+        std::cout<<"DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)"<<std::endl;
+    }
+    else
+    {
+        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==INVALID_INPUT);"<<std::endl;
+
+    }
+    
+
 }
 
 void writeAdd(ResultType res,int classID,int classNUM)
@@ -154,8 +193,8 @@ void CheckAddRemove()
     {
         if (i%11==1)
         {
-            int a=rand()%2;
-            int b=rand()%3;
+            int a=rand()%3;
+            int b=rand()%4;
             int class_num=i;
             int classid=i;
             if (b==3)
@@ -183,7 +222,6 @@ void CheckAddRemove()
                 }
                 writeRemove(INVALID,classid);
             }
-            
         }
         int k=rand() % 3;
         int temp=(rand ()% POLL)+1;
@@ -214,6 +252,13 @@ void CheckAddRemove()
         }
         
     }
+    std::cout<<"/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+            std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+                std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+                    std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+                        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF ADD REMOVE @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/"<<std::endl;
+
 }
     
     void CheckWatchClass()
@@ -300,6 +345,11 @@ void CheckAddRemove()
                 writeTimeView(SUC,big_it->first,small_it->first,small_it->second);
             }
         }
+        std::cout<<"/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF WATCH TIME @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF WATCH TIME @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF WATCH TIME @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF WATCH TIME @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"<<std::endl;
+        std::cout<<"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@END OF WATCH TIME @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/"<<std::endl;
 
 }
 
@@ -383,29 +433,50 @@ void checkGetMostViews()
 
         if (rand()%2==1)
         {
-            map<int,map<int,int>>::iterator big_it;
-            map<int,int>::iterator small_it;
+ 
             map<int,map<int,vector<int>>> mymap;
-            for (big_it =M.begin(); big_it!=M.end();big_it++) 
+            for (auto big_it =M.begin(); big_it!=M.end();big_it++) 
             {
-                for (small_it=(big_it->second).begin(); small_it!=(big_it->second).end();small_it++)
+                for (auto small_it=(big_it->second).begin(); small_it!=(big_it->second).end();small_it++)
                 {
                     mymap[small_it->second][big_it->first].push_back(small_it->first);
                 }
             }
-             map<int,vector<int>>::iterator it2;
-             vector<int>::iterator it3;
-            for (int i=1;i<=M.size();i++)
+
+            int tree_size=0;
+            for ( auto it4=M.begin();it4!=M.end();it4++)
+                {
+                    tree_size+=it4->second.size();
+                }
+            writeallocate(i);
+             if (rand()%2==1)
+             {
+                 if (rand()%2==1)
+                 {
+                    writegetMost(FAIL,1+(tree_size+rand()%5));
+                 }
+                 else
+                 {
+                    writegetMost(INVALID,-(rand()%5));
+                 }
+                 
+             }
+             writedeallocate();
+            for (int i=1;i<=tree_size;i++)
             {
-                writegetMost(i);                
+                writeallocate(i);
+                writegetMost(SUC,i);
+                writePrint(i);
+                writedeallocate();                
                 int cnt=0;
+                
                 myfile<< "Course\t|\tClass\n"<<std::endl;
                 for(auto it1 =mymap.rbegin();it1!=mymap.rend();++it1)
                 {
-                    for(it2=(it1->second.begin());it2!=(it1->second).end();it2++)
+                    for(auto it2=(it1->second.begin());it2!=(it1->second).end();it2++)
                     {
                         sort(it2->second.begin(),it2->second.end());
-                        for (it3=(it2->second.begin());it3!=(it2->second).end();it3++)
+                        for(auto it3=(it2->second.begin());it3!=(it2->second).end();it3++)
                         {
                             if (cnt==i)
                             {
@@ -434,14 +505,22 @@ void checkGetMostViews()
  
 int main()
 {
-    std::cout<<"#include CoursesManager.h"<<std::endl;
+    srand(time(0));
+    std::cout<<"#include \"CoursesManager.h\""<<std::endl;
+    std::cout<<"#include \"util.h\""<<std::endl;
     std::cout<<"int main()"<<std::endl;
     std::cout<<"{"<<std::endl;
     std::cout<<"int* timeviewed=new int;"<<std::endl;
+    std::cout<<"int* classes;"<<std::endl;
+    std::cout<<"int* courses;"<<std::endl;
+    std::cout<<"ofstream myfile;"<<std::endl;
+    std::cout<<"myfile.open(\"myoutput.txt\");"<<std::endl;
     CheckAddRemove();
     CheckWatchClass();
     checkGetMostViews();
     std::cout<<"delete timeviewed;"<<std::endl;
+    std::cout<<"myfile.flush();"<<std::endl;
+    std::cout<<"myfile.close();"<<std::endl;
     std::cout<<"}"<<std::endl;
 
 }

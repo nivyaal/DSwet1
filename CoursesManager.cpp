@@ -67,7 +67,7 @@ StatusType CoursesManager::RemoveCourse(const int courseID)
 
 StatusType CoursesManager::WatchClass(const int courseID,const int classID,const int time)
 {
-    if( courseID<=0 || time <= 0)
+    if( courseID<=0 || time <= 0 || classID<0)
     {
         return INVALID_INPUT;
     }
@@ -78,7 +78,7 @@ StatusType CoursesManager::WatchClass(const int courseID,const int classID,const
             return FAILURE;
         }
 
-         if (classID>=main_tree.getNumOfClasses(courseID))
+         if (classID+1>main_tree.getNumOfClasses(courseID))
         {
             return INVALID_INPUT;
         }
@@ -86,7 +86,7 @@ StatusType CoursesManager::WatchClass(const int courseID,const int classID,const
         int time_watched = main_tree.getTimeOfClass(courseID,classID);
         if (time_watched == 0)
         {
-            unwatched_tree.watchClass(courseID,classID,time);
+            unwatched_tree.watchClass(courseID,classID);
         }
         else
         {
@@ -111,7 +111,7 @@ StatusType CoursesManager::WatchClass(const int courseID,const int classID,const
 
 StatusType CoursesManager::TimeViewed(const int courseID,const int classID, int *timeViewed)
 {
-    if(courseID<=0)
+    if(courseID<=0||classID<0)
     {
         return INVALID_INPUT;
     }
@@ -121,7 +121,7 @@ StatusType CoursesManager::TimeViewed(const int courseID,const int classID, int 
         {   
             return FAILURE;
         }
-        if (classID>=main_tree.getNumOfClasses(courseID))
+        if (classID+1>main_tree.getNumOfClasses(courseID))
         {
             return INVALID_INPUT;
         }

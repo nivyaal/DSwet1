@@ -14,18 +14,11 @@ class CoursesTree
         private:
         public:
         int num_of_classes;
-        Array<TripletKey> classes_array;
+        Array<int> classes_array;
         int course_id;
-        explicit CourseInfo(const int size,const int course_id):classes_array(Array<TripletKey>(size)),course_id(course_id),num_of_classes(size)
-        {
-            TripletKey temp;
-            int i=0;
-            for (int i=0;i<size;i++)
-            {
-                classes_array[i].setCourseId(course_id);
-                classes_array[i].setClassNum(i);
-            }
-        }
+        explicit CourseInfo(const int size,const int course_id):classes_array(Array<int>(size)),course_id(course_id),
+        num_of_classes(size)
+        {};
     };
     AVLtree<int,std::shared_ptr<CourseInfo>> courses;
     int total_num_of_classes=0;
@@ -33,7 +26,7 @@ class CoursesTree
     void insertCourse(const int course_id,const int num_of_classes);
      bool containCourse(const int course_id);
     void eraseCourse(const int course_id);
-    TripletKey watchClass(const int course_id,const int class_num,const int time);
+    void watchClass(const int course_id,const int class_num,const int time);
     int getTimeOfClass(const int course_id,const int class_num) ;
     int getNumOfClasses(const int course_id);
     int getTotalNumOfClasses(){return total_num_of_classes;};

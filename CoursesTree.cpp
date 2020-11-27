@@ -8,16 +8,12 @@ void CoursesTree::insertCourse( const int course_id,const int num_of_classes)
     total_num_of_classes+=num_of_classes;
 }
 
-TripletKey CoursesTree::watchClass(const int course_id,const int class_num,const int time)
+void CoursesTree::watchClass(const int course_id,const int class_num,const int time)
 {
     std::shared_ptr<CourseInfo>* myCourse = courses.find(course_id);
-    if (myCourse==nullptr)
-    {
-        throw; //
-    }
-    (*myCourse)->classes_array[class_num].addTime(time);
-    return (*myCourse)->classes_array[class_num];
+    (*myCourse)->classes_array[class_num]+=time;
 }
+
 bool CoursesTree::containCourse(const int course_id)
 {
     if (courses.find(course_id)==nullptr)
@@ -38,7 +34,7 @@ int CoursesTree::getNumOfClasses(const int course_id)
 int CoursesTree::getTimeOfClass(const int course_id,const int class_num) 
  {
      std::shared_ptr<CourseInfo>* course_Info = courses.find(course_id);
-     return (*course_Info)->classes_array[class_num].getTime();
+     return (*course_Info)->classes_array[class_num];
  }
 
  void CoursesTree::eraseCourse(const int course_id)

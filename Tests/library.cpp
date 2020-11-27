@@ -59,5 +59,5 @@ void Quit(void** DS)
     }
     auto CourseManager= static_cast<CoursesManager*>(*DS);
     delete CourseManager;
-    *DS= nullptr;
+    DS= nullptr;
 }
