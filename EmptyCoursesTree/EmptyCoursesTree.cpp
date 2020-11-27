@@ -52,12 +52,8 @@ void EmptyCoursesTree::insertCourse(const int course_id,const int num_of_classes
     part_empty_courses.insert(course_id, std::shared_ptr<EmptyCoursesInfo>(new EmptyCoursesInfo(num_of_classes,course_id)));
 }
 
-void EmptyCoursesTree::watchClass(const int course_id,const int class_num,const int time)
+void EmptyCoursesTree::watchClass(const int course_id,const int class_num)
 {
-    if (time==0)
-    {
-        throw ;//ilegal watch time
-    }
     std::shared_ptr<EmptyCoursesInfo>* myCourse = part_empty_courses.find(course_id);
     ListNode<TripletKey>* watched_class_ptr= (*myCourse)->avoided_indexes[class_num];
     if (watched_class_ptr!=nullptr )// in case it is first time viewed
@@ -68,9 +64,8 @@ void EmptyCoursesTree::watchClass(const int course_id,const int class_num,const 
         (*myCourse)->avoided_num--;
         if ((*myCourse)->avoided_num==0)
         {
-            part_empty_courses.erase(course_id);
+            eraseCourse(course_id);
         }
-        
     }
     return ;
 }
@@ -81,8 +76,7 @@ void EmptyCoursesTree::eraseCourse(const int course_id)
     if (temp!=nullptr)
     {
         total_unwatched -= (*temp)->avoided_num;
+        part_empty_courses.erase(course_id);
         number_of_courses--;
     }
-    part_empty_courses.erase(course_id);
 }
-

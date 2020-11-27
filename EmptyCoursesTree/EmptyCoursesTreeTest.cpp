@@ -72,12 +72,6 @@ bool insertEraseTest()
 
 void printArray(Array<TripletKey>& arr)
 {
-    cout<<"index: "<<endl;
-    for(int i=0 ; i<arr.getSize(); i++)
-    {
-        cout<< i <<", ";
-    }
-    cout<<endl;
     cout<< "course"<< endl;
     for (int i=0; i<arr.getSize(); i++)
     {
@@ -110,10 +104,26 @@ bool watchClassToArray()
     printArray(arr);
     data2.toArrayKElements(9, arr, 36);
     printArray(arr);
-    data2.watchClass(1,0, 5);
+    data2.watchClass(1,0);
     ASSERT_TEST(data2.getClassesNum() == 35);
-    ASSERT_TEST(data2.getCoursesNum() == 8);   
+    ASSERT_TEST(data2.getCoursesNum() == 7);   
     data2.toArrayKElements(35, arr, 9);
+    printArray(arr);
+    int n =data2.getCoursesNum()+1;
+    for (int j=2; j <= n; j++)
+    {
+        data2.watchClass(j, 1);
+    }
+    ASSERT_TEST(data2.getClassesNum() == 28);
+    ASSERT_TEST(data2.getCoursesNum() == 7); 
+    data2.toArrayKElements(10,arr, 0);
+    printArray(arr);
+    data2.toArrayKElements(15, arr, 7);  
+    printArray(arr);
+    data2.watchClass(2,0);
+    ASSERT_TEST(data2.getClassesNum() == 27);
+    ASSERT_TEST(data2.getCoursesNum() == 6); 
+    data2.toArrayKElements(27, arr, 18);  
     printArray(arr);
 
 

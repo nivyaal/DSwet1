@@ -45,7 +45,7 @@ class EmptyCoursesTree
     void toArrayKElements(const int num, Array<TripletKey>& array,int index);
     void insertCourse(const int course_id,const int num_of_classes);
     void eraseCourse(const int course_id);
-    void watchClass(const int course_id,const int class_num,const int time);
+    void watchClass(const int course_id,const int class_num);
     int getClassesNum() const{return total_unwatched;};
     int getCoursesNum() const {return number_of_courses;};
 };
