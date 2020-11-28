@@ -11,6 +11,15 @@ class Array
 
     public:
     explicit Array(const int array_size):size(array_size), data(new T[array_size]){};
+
+    explicit Array(const int array_size,const T& intial):size(array_size), data(new T[array_size])
+    {
+        for (int i=0;i<array_size;i++)
+        {
+            data[i]=intial;
+        }
+    };
+
     ~Array()
     {
         delete[] data;

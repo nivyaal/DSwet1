@@ -3,7 +3,6 @@
 
 void SortedTree::removeClass(int course_id,int class_num,int time)
 {
-
     mega_tree.erase(TripletKey(time,course_id,class_num)); 
 }
 

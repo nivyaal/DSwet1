@@ -8,20 +8,9 @@
 class CoursesTree
 {    
     private:
-    
-    class CourseInfo
-    {
-        private:
-        public:
-        int num_of_classes;
-        Array<int> classes_array;
-        int course_id;
-        explicit CourseInfo(const int size,const int course_id):classes_array(Array<int>(size)),course_id(course_id),
-        num_of_classes(size)
-        {};
-    };
-    AVLtree<int,std::shared_ptr<CourseInfo>> courses;
+    AVLtree<int,std::shared_ptr<Array<int>>> courses;
     int total_num_of_classes=0;
+
     public:
     void insertCourse(const int course_id,const int num_of_classes);
      bool containCourse(const int course_id);
