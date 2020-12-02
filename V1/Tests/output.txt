@@ -1,0 +1,1000 @@
+Course	|	Class
+
+7	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+7	|	8
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+7	|	8
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+7	|	8
+
+--End of most viewed classes--
+
+Course	|	Class
+
+9	|	0
+
+9	|	1
+
+4	|	0
+
+4	|	1
+
+4	|	2
+
+4	|	3
+
+4	|	4
+
+4	|	5
+
+4	|	6
+
+4	|	7
+
+7	|	0
+
+7	|	1
+
+7	|	2
+
+7	|	3
+
+7	|	4
+
+7	|	5
+
+7	|	6
+
+7	|	7
+
+7	|	8
+
+9	|	2
+
+--End of most viewed classes--
+

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+for i in {1..100}
+do
+	./generator>test.cpp
+	g++ *.cpp -o CoursesManagerApp
+	./CoursesManagerApp>assertionout.txt
+	if [ -s assertionout.txt ]
+	then
+		echo "assertion failure"
+		exit
+	fi
+	if ! diff -q myoutput.txt output.txt > /dev/null
+	then
+		echo "diff failure"
+		exit
+	fi
+	echo "Test number $i"
+done
+
+
