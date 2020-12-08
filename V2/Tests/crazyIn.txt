@@ -1,0 +1,71 @@
+Init
+AddCourse 1 6
+AddCourse 2 6
+AddCourse 3 2
+AddCourse 4 1
+AddCourse 9 5
+AddCourse 10 5
+AddCourse 11 5
+AddCourse 8 9
+AddCourse 7 5
+AddCourse 6 4
+AddCourse 5 7
+AddCourse 1 5
+AddCourse 9 2
+AddCourse 0 2
+AddCourse -5 2
+AddCourse 1111 0
+AddCourse 13 0
+AddCourse 13 -5
+AddCourse 13 5
+AddCourse 13 -9
+AddCourse -15 9999999999
+AddCourse 15 1
+RemoveCourse 324694
+RemoveCourse 10
+RemoveCourse 7
+RemoveCourse 5
+RemoveCourse 5
+RemoveCourse 88
+RemoveCourse 0
+RemoveCourse -5
+WatchClass 234218 2 10
+TimeViewed 1 0
+WatchClass 1 0 10
+TimeViewed 1 0
+WatchClass 1 0 10
+TimeViewed 1 0
+AddCourse 5 7
+WatchClass 5 5 10
+WatchClass 2 5 0
+WatchClass 2 5 -96
+WatchClass 2 -5 96
+WatchClass -2 5 96
+WatchClass 2 6 10
+WatchClass 97 6 10
+WatchClass 3 2 7
+WatchClass 3 1 7
+WatchClass 4 1 8
+WatchClass 9 1 9
+RemoveCourse 11
+AddCourse 11 5
+AddCourse 12 5
+WatchClass 11 0 9
+WatchClass 11 1 9
+WatchClass 12 0 9
+WatchClass 11 2 40
+TimeViewed 11 2
+TimeViewed 11 9
+TimeViewed 11 5
+TimeViewed 53 -1
+TimeViewed 53 1
+TimeViewed -53 1
+GetMostViewedClasses 200
+GetMostViewedClasses 0
+GetMostViewedClasses 3
+WatchClass 11 0 2
+GetMostViewedClasses 3
+GetMostViewedClasses 6
+WatchClass 9 0 9
+GetMostViewedClasses 6
+Quit

@@ -1,0 +1,6351 @@
+init done.
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: INVALID_INPUT
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+19999	|	0
+20000	|	0
+20001	|	0
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+RemoveCourse: INVALID_INPUT
+RemoveCourse: INVALID_INPUT
+RemoveCourse: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20001	|	0
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20002	|	0
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20004	|	0
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	0
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20006	|	0
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20008	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+AddCourse: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: SUCCESS
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+WatchClass: INVALID_INPUT
+WatchClass: FAILURE
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+TimeViewed: 1
+TimeViewed: INVALID_INPUT
+TimeViewed: INVALID_INPUT
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+1	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+1	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: 718
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: 966
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: 774
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: 94
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+TimeViewed: 166
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+AddCourse: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+WatchClass: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+TimeViewed: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20000	|	1
+20000	|	2
+20000	|	0
+20001	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: 982
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: 751
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+TimeViewed: 279
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+TimeViewed: 252
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+20004	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+20004	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20000	|	0
+20005	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20000	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 312
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 751
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 935
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 64
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20000	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 918
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 68
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 100
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 373
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: 919
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: 495
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: 753
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+AddCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 351
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+AddCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+20000	|	0
+--End of most viewed classes--
+WatchClass: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+WatchClass: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: 879
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+TimeViewed: INVALID_INPUT
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20000	|	2
+20007	|	2
+20003	|	1
+20005	|	1
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20000	|	1
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20003	|	0
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+20007	|	1
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20005	|	2
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20005	|	1
+20007	|	1
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+20008	|	0
+20006	|	2
+--End of most viewed classes--
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20006	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20006	|	3
+20008	|	0
+20006	|	2
+--End of most viewed classes--
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20008	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20007	|	0
+20009	|	0
+20007	|	2
+20007	|	1
+20008	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+20008	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+20008	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+20008	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: SUCCESS
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+RemoveCourse: FAILURE
+GetMostViewedClasses: ALLOCATION_ERROR
+GetMostViewedClasses: INVALID_INPUT
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+--End of most viewed classes--
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+20009	|	0
+1	|	0
+--End of most viewed classes--
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+GetMostViewedClasses: FAILURE
+quit done.

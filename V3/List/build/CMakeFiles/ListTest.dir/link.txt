@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/ListTest.dir/ListTest.cpp.o  -o ListTest 

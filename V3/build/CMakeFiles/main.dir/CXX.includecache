@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/AVLtest2.cpp
+iostream
+-
+map
+-
+sstream
+-
+functional
+-
+cmath
+-
+AVLtree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/AVLtree.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/AVLtree.h
+iostream
+-
+TreeExceptions.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/TreeExceptions.h
+../Array/Array.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/Array/Array.h
+../SpecialNodes.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/SpecialNodes.h
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/TreeExceptions.h
+iostream
+-
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/Array/Array.h
+iostream
+-
+
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/SpecialNodes.h
+iostream
+-
+AVLtree/AVLtree.h
+/home/hod/Desktop/projects/wet1DS/DSwet1/V3/AVLtree/AVLtree.h
+

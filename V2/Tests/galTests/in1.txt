@@ -1,0 +1,146 @@
+Init
+AddCourse 1 10
+GetMostViewedClasses 10
+WatchClass 1 0 10
+WatchClass 1 1 20
+WatchClass 1 2 30
+WatchClass 1 3 40
+WatchClass 1 4 50
+GetMostViewedClasses 10
+GetMostViewedClasses 11
+WatchClass 1 1 30
+Quit
+Init
+AddCourse 1 3
+WatchClass 1 0 1
+WatchClass 1 1 1
+WatchClass 1 2 1
+GetMostViewedClasses 3
+Quit
+Init
+AddCourse 1 10
+GetMostViewedClasses 10
+WatchClass 1 0 10
+WatchClass 1 1 20
+WatchClass 1 2 30
+WatchClass 1 3 40
+WatchClass 1 4 50
+AddCourse 2 10
+GetMostViewedClasses 10
+WatchClass 2 0 10
+WatchClass 2 1 20
+WatchClass 2 2 30
+WatchClass 2 3 40
+WatchClass 2 4 50
+WatchClass 2 1 30
+WatchClass 2 0 10
+GetMostViewedClasses 10
+WatchClass 2 1 20
+WatchClass 2 2 30
+WatchClass 2 3 40
+WatchClass 2 4 50
+WatchClass 2 1 30
+GetMostViewedClasses 10
+RemoveCourse 1
+GetMostViewedClasses 10
+RemoveCourse 2
+GetMostViewedClasses 1
+AddCourse 1 1
+AddCourse 1 1
+AddCourse 1 0
+AddCourse 0 1
+AddCourse 1 1
+WatchClass 2 1 20
+WatchClass 1 1 20
+WatchClass 1 0 20
+AddCourse 11 11
+AddCourse 22 22
+AddCourse 33 33
+GetMostViewedClasses 66
+WatchClass 11 0 10
+WatchClass 11 1 20
+WatchClass 11 2 30
+WatchClass 11 3 40
+WatchClass 11 4 50
+WatchClass 11 1 30
+WatchClass 11 10 10
+WatchClass 22 0 101
+WatchClass 22 1 20
+WatchClass 22 2 30
+WatchClass 22 3 40
+WatchClass 22 4 50
+WatchClass 22 1 30
+WatchClass 22 10 10
+WatchClass 33 0 102
+WatchClass 33 1 20
+WatchClass 33 2 30
+WatchClass 33 3 40
+WatchClass 33 4 50
+WatchClass 33 1 30
+WatchClass 33 10 10
+GetMostViewedClasses 20
+TimeViewed 22 0
+RemoveCourse 22
+TimeViewed 22 0
+GetMostViewedClasses 20
+AddCourse 22 22
+WatchClass 22 1 5
+WatchClass 22 2 4
+WatchClass 22 3 6
+WatchClass 22 4 7
+WatchClass 22 1 7
+TimeViewed 22 1
+TimeViewed 22 2
+TimeViewed 22 3
+TimeViewed 22 4
+TimeViewed 22 5
+TimeViewed 22 6
+TimeViewed 22 7
+TimeViewed 22 8
+TimeViewed 22 9
+TimeViewed 22 10
+TimeViewed 22 11
+WatchClass 33 0 102
+WatchClass 33 1 20
+WatchClass 33 2 30
+WatchClass 33 3 40
+WatchClass 33 4 50
+WatchClass 33 1 30
+WatchClass 33 10 10
+WatchClass 33 0 102
+WatchClass 33 1 20
+WatchClass 33 2 30
+WatchClass 33 3 40
+WatchClass 33 4 50
+WatchClass 11 1 30
+WatchClass 22 3 10
+WatchClass 22 0 102
+WatchClass 22 1 20
+WatchClass 11 2 30
+WatchClass 11 3 40
+WatchClass 11 4 50
+WatchClass 11 1 30
+WatchClass 11 10 10
+GetMostViewedClasses 30
+GetMostViewedClasses 100
+RemoveCourse 11
+GetMostViewedClasses 56
+AddCourse 1 0
+AddCourse 1 -5
+AddCourse 0 10
+AddCourse -1 10
+WatchClass -1 10 10
+WatchClass 0 1 0
+WatchClass 0 15 0
+WatchClass 0 15 5
+WatchClass 0 7 0
+WatchClass 0 7 2
+Quit
+
+
+
+
+
+
+
+
