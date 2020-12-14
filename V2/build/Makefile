@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hod/Desktop/projects/competitor/DSwet1
+CMAKE_SOURCE_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1/V2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hod/Desktop/projects/competitor/DSwet1/build
+CMAKE_BINARY_DIR = /home/hod/Desktop/projects/wet1DS/DSwet1/V2/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -92,7 +92,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
-	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/hod/Desktop/projects/competitor/DSwet1/build/CPackSourceConfig.cmake
+	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -113,9 +113,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles /home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles /home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -682,32 +682,32 @@ library.cpp.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/library.cpp.s
 .PHONY : library.cpp.s
 
-main.o: main.cpp.o
+test1.o: test1.cpp.o
 
-.PHONY : main.o
+.PHONY : test1.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.o
-.PHONY : main.cpp.o
+test1.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test1.cpp.o
+.PHONY : test1.cpp.o
 
-main.i: main.cpp.i
+test1.i: test1.cpp.i
 
-.PHONY : main.i
+.PHONY : test1.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
-.PHONY : main.cpp.i
+test1.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test1.cpp.i
+.PHONY : test1.cpp.i
 
-main.s: main.cpp.s
+test1.s: test1.cpp.s
 
-.PHONY : main.s
+.PHONY : test1.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
-.PHONY : main.cpp.s
+test1.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test1.cpp.s
+.PHONY : test1.cpp.s
 
 # Help Target
 help:
@@ -767,9 +767,9 @@ help:
 	@echo "... library.o"
 	@echo "... library.i"
 	@echo "... library.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... test1.o"
+	@echo "... test1.i"
+	@echo "... test1.s"
 .PHONY : help
 
 

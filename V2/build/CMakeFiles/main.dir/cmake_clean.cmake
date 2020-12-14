@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/main.cpp.o"
+  "CMakeFiles/main.dir/test1.cpp.o"
   "CMakeFiles/main.dir/library.cpp.o"
   "CMakeFiles/main.dir/CoursesManager.cpp.o"
   "CMakeFiles/main.dir/SortedTree.cpp.o"

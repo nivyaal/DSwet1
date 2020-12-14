@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hod/Desktop/projects/competitor/DSwet1/CoursesManager.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/CoursesManager.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/CoursesTree.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/CoursesTree.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/EmptyCoursesTree.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/EmptyCoursesTree.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/SortedTree.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/SortedTree.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/SpecialNodes.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/SpecialNodes.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/library.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/library.cpp.o"
-  "/home/hod/Desktop/projects/competitor/DSwet1/main.cpp" "/home/hod/Desktop/projects/competitor/DSwet1/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/CoursesManager.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/CoursesManager.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/CoursesTree.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/CoursesTree.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/EmptyCoursesTree.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/EmptyCoursesTree.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/SortedTree.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/SortedTree.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/SpecialNodes.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/SpecialNodes.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/library.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/library.cpp.o"
+  "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/test1.cpp" "/home/hod/Desktop/projects/wet1DS/DSwet1/V2/build/CMakeFiles/main.dir/test1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

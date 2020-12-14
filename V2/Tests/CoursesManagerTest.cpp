@@ -7,10 +7,10 @@
 #include <fstream>
 #include<time.h>
 
-#define TEST_ADD_REMOVE_PARMATER 50
-#define TEST_WATCHCLASS_PARMATER 50
-#define TEST_GETMOST_PARMATER 50
-#define POLL 50
+#define TEST_ADD_REMOVE_PARMATER 30
+#define TEST_WATCHCLASS_PARMATER 30
+#define TEST_GETMOST_PARMATER 30
+#define POLL 20
 int cnt=0;
 int line_cnt=0;
 
@@ -56,20 +56,19 @@ void writegetMost(ResultType res,int k)
     line_cnt++;
     if(res==FAIL)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==FAILURE);"<<std::endl;
+        std::cout<<"ASSERT_TEST(GetMostViewedClasses(DS"+to_string(cnt)+","+to_string(k)+",courses,classes)==FAILURE);"<<std::endl;
     }
     else if (res==SUC)
     {
-         std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==SUCCESS);"<<std::endl;
+         std::cout<<"ASSERT_TEST(GetMostViewedClasses(DS"+to_string(cnt)+","+to_string(k)+",courses,classes)==SUCCESS);"<<std::endl;
     }
     else if (res==NOVALUE )
     {
-        std::cout<<"DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)"<<std::endl;
+        std::cout<<"GetMostViewedClasses(DS"+to_string(cnt)+","+to_string(k)+",courses,classes)"<<std::endl;
     }
     else
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".GetMostViewedClasses("+to_string(k)+",courses,classes)==INVALID_INPUT);"<<std::endl;
-
+        std::cout<<"ASSERT_TEST(GetMostViewedClasses(DS"+to_string(cnt)+","+to_string(k)+",courses,classes)==INVALID_INPUT);"<<std::endl;
     }
     
 
@@ -81,19 +80,19 @@ void writeAdd(ResultType res,int classID,int classNUM)
     line_cnt++;
     if (res==FAIL)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".AddCourse("+to_string(classID)+","+to_string(classNUM)+")==FAILURE);"<<std::endl;
+        std::cout<<"ASSERT_TEST(AddCourse(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNUM)+")==FAILURE);"<<std::endl;
     }
     else if (res==SUC)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".AddCourse("+to_string(classID)+","+to_string(classNUM)+")==SUCCESS);"<<std::endl;
+        std::cout<<"ASSERT_TEST(AddCourse(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNUM)+")==SUCCESS);"<<std::endl;
     }
     else if (res==NOVALUE )
     {
-        std::cout<<"DS"+to_string(cnt)+".AddCourse("+to_string(classID)+","+to_string(classNUM)+");"<<std::endl;
+        std::cout<<"AddCourse(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNUM)+");"<<std::endl;
     }
     else
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".AddCourse("+to_string(classID)+","+to_string(classNUM)+")==INVALID_INPUT);"<<std::endl;
+        std::cout<<"ASSERT_TEST(AddCourse(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNUM)+")==INVALID_INPUT);"<<std::endl;
     }
     
     
@@ -104,19 +103,19 @@ void writeRemove(ResultType res,int classID)
     line_cnt++;
     if (res==FAIL)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".RemoveCourse("+to_string(classID)+")==FAILURE);"<<std::endl;
+        std::cout<<"ASSERT_TEST(RemoveCourse(DS"+to_string(cnt)+","+to_string(classID)+")==FAILURE);"<<std::endl;
     }
     else if (res==SUC)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".RemoveCourse("+to_string(classID)+")==SUCCESS);"<<std::endl;
+        std::cout<<"ASSERT_TEST(RemoveCourse(DS"+to_string(cnt)+","+to_string(classID)+")==SUCCESS);"<<std::endl;
     }
     else if (res==NOVALUE )
     {
-        std::cout<<"DS"+to_string(cnt)+".RemoveCourse("+to_string(classID)+");"<<std::endl;
+        std::cout<<"RemoveCourse(DS"+to_string(cnt)+","+to_string(classID)+");"<<std::endl;
     }
     else
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".RemoveCourse("+to_string(classID)+")==INVALID_INPUT);"<<std::endl;
+        std::cout<<"ASSERT_TEST(RemoveCourse(DS"+to_string(cnt)+","+to_string(classID)+")==INVALID_INPUT);"<<std::endl;
     }
     
 
@@ -128,19 +127,19 @@ void writeWatch(ResultType res,int classID,int classNum,int time)
     line_cnt++;
     if (res==FAIL)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".WatchClass("+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==FAILURE);"<<std::endl;
+        std::cout<<"ASSERT_TEST(WatchClass(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==FAILURE);"<<std::endl;
     }
     else if (res==SUC)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".WatchClass("+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==SUCCESS);"<<std::endl;
+        std::cout<<"ASSERT_TEST(WatchClass(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==SUCCESS);"<<std::endl;
     }
     else if (res==NOVALUE )
     {
-        std::cout<<"DS"+to_string(cnt)+".WatchClass("+to_string(classID)+","+to_string(classNum)+","+to_string(time)+");"<<std::endl;
+        std::cout<<"WatchClass(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+","+to_string(time)+");"<<std::endl;
     }
     else
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".WatchClass("+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==INVALID_INPUT);"<<std::endl;
+        std::cout<<"ASSERT_TEST(WatchClass(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+","+to_string(time)+")==INVALID_INPUT);"<<std::endl;
     }
     
     
@@ -151,20 +150,20 @@ void writeTimeView(ResultType res,int classID,int classNum,int total_time)
     line_cnt++;
     if (res==FAIL)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".TimeViewed("+to_string(classID)+","+to_string(classNum)+",timeviewed)==FAILURE);"<<std::endl;
+        std::cout<<"ASSERT_TEST(TimeViewed(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+",timeviewed)==FAILURE);"<<std::endl;
     }
     else if (res==SUC)
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".TimeViewed("+to_string(classID)+","+to_string(classNum)+",timeviewed)==SUCCESS);"<<std::endl;
+        std::cout<<"ASSERT_TEST(TimeViewed(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+",timeviewed)==SUCCESS);"<<std::endl;
         std::cout<<"ASSERT_TEST(*timeviewed=="+to_string(total_time)+");"<<std::endl;
     }
     else if (res==NOVALUE )
     {
-        std::cout<<"DS"+to_string(cnt)+".TimeViewed("+to_string(classID)+","+to_string(classNum)+",timeviewed);"<<std::endl;
+        std::cout<<"TimeViewed(DS,"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+",timeviewed);"<<std::endl;
     }
     else
     {
-        std::cout<<"ASSERT_TEST(DS"+to_string(cnt)+".TimeViewed("+to_string(classID)+","+to_string(classNum)+",timeviewed)==INVALID_INPUT);"<<std::endl;
+        std::cout<<"ASSERT_TEST(TimeViewed(DS"+to_string(cnt)+","+to_string(classID)+","+to_string(classNum)+",timeviewed)==INVALID_INPUT);"<<std::endl;
     }
     
 
@@ -174,7 +173,7 @@ void writeEmptyInit()
     std::cout<<"//Line Number: "+to_string(line_cnt)<<std::endl;
     line_cnt++;
     cnt++;
-    std::cout<<"CoursesManager DS"+to_string(cnt)+";"<<std::endl;
+    std::cout<<"void *DS"+to_string(cnt)+"=Init();"<<std::endl;
 }
 void writeReset()
 {
@@ -448,20 +447,24 @@ void checkGetMostViews()
                 {
                     tree_size+=it4->second.size();
                 }
-            writeallocate(i);
              if (rand()%2==1)
              {
                  if (rand()%2==1)
                  {
-                    writegetMost(FAIL,1+(tree_size+rand()%5));
+                     int tmp = 1+(tree_size+rand()%5) ;
+                     writeallocate(tmp);
+                    writegetMost(FAIL,tmp);
+                    writedeallocate();
+
                  }
                  else
                  {
+                     writeallocate(i);
                     writegetMost(INVALID,-(rand()%5));
+                    writedeallocate();
                  }
                  
              }
-             writedeallocate();
             for (int i=1;i<=tree_size;i++)
             {
                 writeallocate(i);
@@ -506,7 +509,7 @@ void checkGetMostViews()
 int main()
 {
     srand(time(0));
-    std::cout<<"#include \"CoursesManager.h\""<<std::endl;
+    std::cout<<"#include \"library.h\""<<std::endl;
     std::cout<<"#include \"util.h\""<<std::endl;
     std::cout<<"int main()"<<std::endl;
     std::cout<<"{"<<std::endl;

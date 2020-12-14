@@ -1,0 +1,16 @@
+#!/bin/bash
+
+for i in {1..100}
+do
+        python StressTest.py> /dev/null
+        ./out<test.in>myoutput.txt
+        if ! diff -q myoutput.txt test.out > /dev/null
+        then
+                echo "diff failure"
+                exit
+        fi
+        echo "Test number $i"
+done
+
+
+~     

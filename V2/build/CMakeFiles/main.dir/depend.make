@@ -53,6 +53,7 @@ CMakeFiles/main.dir/library.cpp.o: ../SpecialNodes.h
 CMakeFiles/main.dir/library.cpp.o: ../library.cpp
 CMakeFiles/main.dir/library.cpp.o: ../library.h
 
-CMakeFiles/main.dir/main.cpp.o: ../library.h
-CMakeFiles/main.dir/main.cpp.o: ../main.cpp
+CMakeFiles/main.dir/test1.cpp.o: ../library.h
+CMakeFiles/main.dir/test1.cpp.o: ../test1.cpp
+CMakeFiles/main.dir/test1.cpp.o: ../util.h
 
