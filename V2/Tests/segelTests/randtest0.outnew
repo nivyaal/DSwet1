@@ -1,0 +1,16 @@
+init done.
+AddCourse: SUCCESS
+AddCourse: SUCCESS
+AddCourse: FAILURE
+AddCourse: INVALID_INPUT
+RemoveCourse: SUCCESS
+RemoveCourse: FAILURE
+WatchClass: SUCCESS
+TimeViewed: 1
+GetMostViewedClasses: SUCCESS
+Course	|	Class
+123	|	3
+123	|	0
+123	|	1
+--End of most viewed classes--
+quit done.

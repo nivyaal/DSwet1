@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for i in {0..14}
+do
+       	valgrind ./app<randtest$i.innew>myoutput.txt
+        if ! diff -q myoutput.txt randtest$i.outnew > /dev/null
+        then
+                echo "diff failure test num $i"
+                exit
+        fi
+        echo "passed Test number $i"
+done

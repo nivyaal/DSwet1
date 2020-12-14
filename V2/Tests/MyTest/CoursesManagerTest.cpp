@@ -1,4 +1,4 @@
-#include "../CoursesManager.h"
+#include "../../CoursesManager.h"
 #include <iostream>
 #include <map>
 #include <vector>
@@ -7,10 +7,10 @@
 #include <fstream>
 #include<time.h>
 
-#define TEST_ADD_REMOVE_PARMATER 20
-#define TEST_WATCHCLASS_PARMATER 20
-#define TEST_GETMOST_PARMATER 20
-#define POLL 20
+#define TEST_ADD_REMOVE_PARMATER 50
+#define TEST_WATCHCLASS_PARMATER 50
+#define TEST_GETMOST_PARMATER 50
+#define POLL 50
 int cnt=0;
 int line_cnt=0;
 
@@ -522,6 +522,9 @@ int main()
     CheckWatchClass();
     checkGetMostViews();
     std::cout<<"delete timeviewed;"<<std::endl;
+    std::cout<<"Quit(&DS1);"<<std::endl;
+    std::cout<<"Quit(&DS2);"<<std::endl;
+    std::cout<<"Quit(&DS3);"<<std::endl;
     std::cout<<"myfile.flush();"<<std::endl;
     std::cout<<"myfile.close();"<<std::endl;
     std::cout<<"}"<<std::endl;
